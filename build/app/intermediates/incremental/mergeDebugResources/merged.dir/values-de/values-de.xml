@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="database_us_state_codes">
+    <!-- Matches "database_us_states" in ordering -->
+    <item>AL</item>
+    <item>AK</item>
+    <item>AZ</item>
+    <item>AR</item>
+    <item>CA</item>
+    <item>CO</item>
+    <item>CT</item>
+    <item>DE</item>
+    <item>DC</item>
+    <item>FL</item>
+    <item>GA</item>
+    <item>HI</item>
+    <item>ID</item>
+    <item>IL</item>
+    <item>IN</item>
+    <item>IA</item>
+    <item>KS</item>
+    <item>KY</item>
+    <item>LA</item>
+    <item>ME</item>
+    <item>MD</item>
+    <item>MA</item>
+    <item>MI</item>
+    <item>MN</item>
+    <item>MS</item>
+    <item>MO</item>
+    <item>MT</item>
+    <item>NE</item>
+    <item>NV</item>
+    <item>NH</item>
+    <item>NJ</item>
+    <item>NM</item>
+    <item>NY</item>
+    <item>NC</item>
+    <item>ND</item>
+    <item>OH</item>
+    <item>OK</item>
+    <item>OR</item>
+    <item>PA</item>
+    <item>RI</item>
+    <item>SC</item>
+    <item>SD</item>
+    <item>TN</item>
+    <item>TX</item>
+    <item>UT</item>
+    <item>VT</item>
+    <item>VA</item>
+    <item>WA</item>
+    <item>WV</item>
+    <item>WI</item>
+    <item>WY</item>
+  </string-array>
+    <string-array name="database_us_states">
+    <item>Alabama</item>
+    <item>Alaska</item>
+    <item>Arizona</item>
+    <item>Arkansas</item>
+    <item>California</item>
+    <item>Colorado</item>
+    <item>Connecticut</item>
+    <item>Delaware</item>
+    <item>District of Columbia</item>
+    <item>Florida</item>
+    <item>Georgia</item>
+    <item>Hawaii</item>
+    <item>Idaho</item>
+    <item>Illinois</item>
+    <item>Indiana</item>
+    <item>Iowa</item>
+    <item>Kansas</item>
+    <item>Kentucky</item>
+    <item>Louisiana</item>
+    <item>Maine</item>
+    <item>Maryland</item>
+    <item>Massachusetts</item>
+    <item>Michigan</item>
+    <item>Minnesota</item>
+    <item>Mississippi</item>
+    <item>Missouri</item>
+    <item>Montana</item>
+    <item>Nebraska</item>
+    <item>Nevada</item>
+    <item>New Hampshire</item>
+    <item>New Jersey</item>
+    <item>New Mexico</item>
+    <item>New York</item>
+    <item>North Carolina</item>
+    <item>North Dakota</item>
+    <item>Ohio</item>
+    <item>Oklahoma</item>
+    <item>Oregon</item>
+    <item>Pennsylvania</item>
+    <item>Rhode Island</item>
+    <item>South Carolina</item>
+    <item>South Dakota</item>
+    <item>Tennessee</item>
+    <item>Texas</item>
+    <item>Utah</item>
+    <item>Vermont</item>
+    <item>Virginia</item>
+    <item>Washington</item>
+    <item>West Virginia</item>
+    <item>Wisconsin</item>
+    <item>Wyoming</item>
+  </string-array>
+    <string-array name="inquiry_countryselect_countries">
+    <item>Afghanistan</item>
+    <item>Albanien</item>
+    <item>Algerien</item>
+    <item>Amerikanisch-Samoa</item>
+    <item>Andorra</item>
+    <item>Angola</item>
+    <item>Anguilla</item>
+    <item>Antarktis</item>
+    <item>Antigua und Barbuda</item>
+    <item>Argentinien</item>
+    <item>Armenien</item>
+    <item>Aruba</item>
+    <item>Insel Ascension</item>
+    <item>Australien</item>
+    <item>Österreich</item>
+    <item>Aserbaidschan</item>
+    <item>Bahamas</item>
+    <item>Bahrain</item>
+    <item>Bangladesch</item>
+    <item>Barbados</item>
+    <item>Weißrussland</item>
+    <item>Belgien</item>
+    <item>Belize</item>
+    <item>Benin</item>
+    <item>Bermuda</item>
+    <item>Bhutan</item>
+    <item>Bolivien</item>
+    <item>Bosnien und Herzegowina</item>
+    <item>Botswana</item>
+    <item>Bouvet-Insel</item>
+    <item>Brasilien</item>
+    <item>Britisches Territorium im Indischen Ozean</item>
+    <item>Britische Jungferninseln</item>
+    <item>Brunei</item>
+    <item>Bulgarien</item>
+    <item>Burkina Faso</item>
+    <item>Burundi</item>
+    <item>Kambodscha</item>
+    <item>Kamerun</item>
+    <item>Kanada</item>
+    <item>Kanarische Inseln</item>
+    <item>Kap Verde</item>
+    <item>Karibische Niederlande</item>
+    <item>Cayman-Inseln</item>
+    <item>Zentralafrikanische Republik</item>
+    <item>Ceuta und Melilla</item>
+    <item>Tschad</item>
+    <item>Chile</item>
+    <item>China</item>
+    <item>Weihnachtsinsel</item>
+    <item>Clipperton-Insel</item>
+    <item>Kokosinseln (Keeling)</item>
+    <item>Kolumbien</item>
+    <item>Komoren</item>
+    <item>Kongo - Brazzaville</item>
+    <item>Kongo - Kinshasa</item>
+    <item>Cook-Inseln</item>
+    <item>Costa Rica</item>
+    <item>Kroatien</item>
+    <item>Kuba</item>
+    <item>Curaçao</item>
+    <item>Zypern</item>
+    <item>Tschechische Republik</item>
+    <item>Elfenbeinküste</item>
+    <item>Dänemark</item>
+    <item>Diego Garcia</item>
+    <item>Dschibuti</item>
+    <item>Dominica</item>
+    <item>Dominikanische Republik</item>
+    <item>Ecuador</item>
+    <item>Ägypten</item>
+    <item>El Salvador</item>
+    <item>Äquatorial-Guinea</item>
+    <item>Eritrea</item>
+    <item>Estland</item>
+    <item>Äthiopien</item>
+    <item>Europäische Union</item>
+    <item>Falkland-Inseln</item>
+    <item>Färöer-Inseln</item>
+    <item>Fidschi</item>
+    <item>Finnland</item>
+    <item>Frankreich</item>
+    <item>Französisch-Guayana</item>
+    <item>Französisch-Polynesien</item>
+    <item>Französische Süd- und Antarktisgebiete</item>
+    <item>Gabun</item>
+    <item>Gambia</item>
+    <item>Georgien</item>
+    <item>Deutschland</item>
+    <item>Ghana</item>
+    <item>Gibraltar</item>
+    <item>Griechenland</item>
+    <item>Grönland</item>
+    <item>Grenada</item>
+    <item>Guadeloupe</item>
+    <item>Guam</item>
+    <item>Guatemala</item>
+    <item>Guernsey</item>
+    <item>Guinea-Bissau</item>
+    <item>Guinea</item>
+    <item>Guyana</item>
+    <item>Haiti</item>
+    <item>Inseln Heard &amp; McDonald</item>
+    <item>Honduras</item>
+    <item>Hongkong</item>
+    <item>Ungarn</item>
+    <item>Island</item>
+    <item>Indien</item>
+    <item>Indonesien</item>
+    <item>Iran</item>
+    <item>Irak</item>
+    <item>Irland</item>
+    <item>Insel Man</item>
+    <item>Israel</item>
+    <item>Italien</item>
+    <item>Jamaika</item>
+    <item>Japan</item>
+    <item>Jersey</item>
+    <item>Jordanien</item>
+    <item>Kasachstan</item>
+    <item>Kenia</item>
+    <item>Kiribati</item>
+    <item>Kosovo</item>
+    <item>Kuwait</item>
+    <item>Kirgisistan</item>
+    <item>Laos</item>
+    <item>Lettland</item>
+    <item>Libanon</item>
+    <item>Lesotho</item>
+    <item>Liberia</item>
+    <item>Libyen</item>
+    <item>Liechtenstein</item>
+    <item>Litauen</item>
+    <item>Luxemburg</item>
+    <item>Macau</item>
+    <item>Mazedonien</item>
+    <item>Madagaskar</item>
+    <item>Malawi</item>
+    <item>Malaysia</item>
+    <item>Malediven</item>
+    <item>Mali</item>
+    <item>Malta</item>
+    <item>Marshall-Inseln</item>
+    <item>Martinique</item>
+    <item>Mauretanien</item>
+    <item>Mauritius</item>
+    <item>Mayotte</item>
+    <item>Mexiko</item>
+    <item>Mikronesien</item>
+    <item>Moldawien</item>
+    <item>Monaco</item>
+    <item>Mongolei</item>
+    <item>Montenegro</item>
+    <item>Montserrat</item>
+    <item>Marokko</item>
+    <item>Mosambik</item>
+    <item>Myanmar (Burma)</item>
+    <item>Namibia</item>
+    <item>Nauru</item>
+    <item>Nepal</item>
+    <item>Niederlande</item>
+    <item>Neukaledonien</item>
+    <item>Neuseeland</item>
+    <item>Nicaragua</item>
+    <item>Niger</item>
+    <item>Nigeria</item>
+    <item>Niue</item>
+    <item>Norfolk-Insel</item>
+    <item>Nordkorea</item>
+    <item>Nördliche Marianen-Inseln</item>
+    <item>Norwegen</item>
+    <item>Oman</item>
+    <item>Amerikanisch-Ozeanien</item>
+    <item>Pakistan</item>
+    <item>Palau</item>
+    <item>Palästinensergebiete</item>
+    <item>Panama</item>
+    <item>Papua-Neuguinea</item>
+    <item>Paraguay</item>
+    <item>Peru</item>
+    <item>Philippinen</item>
+    <item>Pitcairn-Inseln</item>
+    <item>Polen</item>
+    <item>Portugal</item>
+    <item>Puerto Rico</item>
+    <item>Katar</item>
+    <item>Rumänien</item>
+    <item>Russland</item>
+    <item>Ruanda</item>
+    <item>Réunion</item>
+    <item>Saint Martin</item>
+    <item>Samoa</item>
+    <item>San Marino</item>
+    <item>Saudi-Arabien</item>
+    <item>Senegal</item>
+    <item>Serbien</item>
+    <item>Seychellen</item>
+    <item>Sierra Leone</item>
+    <item>Singapur</item>
+    <item>Slowakei</item>
+    <item>Slowenien</item>
+    <item>Salomonen</item>
+    <item>Somalia</item>
+    <item>Südafrika</item>
+    <item>Südgeorgien &amp; Südliche Sandwichinseln</item>
+    <item>Südkorea</item>
+    <item>Südsudan</item>
+    <item>Spanien</item>
+    <item>Sri Lanka</item>
+    <item>St. Barthélemy</item>
+    <item>St. Helena</item>
+    <item>St. Kitts und Nevis</item>
+    <item>St. Lucia</item>
+    <item>St. Martin</item>
+    <item>St. Pierre und Miquelon</item>
+    <item>St. Vincent &amp; Grenadinen</item>
+    <item>Sudan</item>
+    <item>Surinam</item>
+    <item>Spitzbergen &amp; Jan Mayen</item>
+    <item>Swasiland</item>
+    <item>Schweden</item>
+    <item>Schweiz</item>
+    <item>Syrien</item>
+    <item>São Tomé und Príncipe</item>
+    <item>Taiwan</item>
+    <item>Tadschikistan</item>
+    <item>Tansania</item>
+    <item>Thailand</item>
+    <item>Timor-Leste</item>
+    <item>Togo</item>
+    <item>Tokelau</item>
+    <item>Tonga</item>
+    <item>Trinidad und Tobago</item>
+    <item>Tristan da Cunha</item>
+    <item>Tunesien</item>
+    <item>Turkei</item>
+    <item>Turkmenistan</item>
+    <item>Turks- und Caicosinseln</item>
+    <item>Tuvalu</item>
+    <item>Amerikanische Außeninsel</item>
+    <item>US-Jungferninseln</item>
+    <item>Uganda</item>
+    <item>Ukraine</item>
+    <item>Vereinigte Arabische Emirate</item>
+    <item>Großbritannien</item>
+    <item>Vereinigte Staaten</item>
+    <item>Uruguay</item>
+    <item>Usbekistan</item>
+    <item>Vanuatu</item>
+    <item>Vatikan</item>
+    <item>Venezuela</item>
+    <item>Vietnam</item>
+    <item>Wallis und Futuna</item>
+    <item>Westsahara</item>
+    <item>Jemen</item>
+    <item>Sambia</item>
+    <item>Simbabwe</item>
+    <item>Åland-Inseln</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d Sekunde vorspulen</item>
+    <item quantity="other">%d Sekunden vorspulen</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d Sekunde zurückspulen</item>
+    <item quantity="other">%d Sekunden zurückspulen</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Verfügbarkeit von Google Play-Diensten"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="database_birthdate_format">dd-mm-yyyy</string>
+    <string name="database_hint_address_city">Stadt</string>
+    <string name="database_hint_address_country">Land</string>
+    <string name="database_hint_address_postal_code">Postleitzahl</string>
+    <string name="database_hint_address_street_1">Straße</string>
+    <string name="database_hint_address_street_2">Zi. / Whg.</string>
+    <string name="database_hint_address_subdivision">Bundesland</string>
+    <string name="database_hint_first_name">Vorname</string>
+    <string name="database_hint_last_name">Nachname</string>
+    <string name="database_label_address">Adresse</string>
+    <string name="database_label_birthdate">Geburtsdatum</string>
+    <string name="database_label_identification_number_ssn_full">SSN</string>
+    <string name="database_label_identification_number_ssn_last_4">Die letzten 4 Stellen der Sozialversicherungsnummer</string>
+    <string name="database_label_name">Name</string>
+    <string name="database_label_phone_number">Telefonnummer</string>
+    <string name="database_prompt_address_select_subdivision">Bundesland auswählen</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"Läuft gerade"</string>
+    <string name="document_instruction_content_Description">Icon symbolisiert ein Dokument</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="exo_controls_cc_disabled_description">Untertitel aktivieren</string>
+    <string name="exo_controls_cc_enabled_description">Untertitel deaktivieren</string>
+    <string name="exo_controls_fastforward_description">Vorspulen</string>
+    <string name="exo_controls_fullscreen_enter_description">Vollbild aktivieren</string>
+    <string name="exo_controls_fullscreen_exit_description">Vollbild beenden</string>
+    <string name="exo_controls_hide">Player-Steuerelemente ausblenden</string>
+    <string name="exo_controls_next_description">Weiter</string>
+    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen einblenden</string>
+    <string name="exo_controls_pause_description">Pausieren</string>
+    <string name="exo_controls_play_description">Wiedergeben</string>
+    <string name="exo_controls_playback_speed">Geschwindigkeit</string>
+    <string name="exo_controls_playback_speed_normal">Normal</string>
+    <string name="exo_controls_previous_description">Zurück</string>
+    <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
+    <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
+    <string name="exo_controls_rewind_description">Zurückspulen</string>
+    <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
+    <string name="exo_controls_settings_description">Einstellungen</string>
+    <string name="exo_controls_show">Player-Steuerelemente anzeigen</string>
+    <string name="exo_controls_shuffle_off_description">Zufallsmix aus</string>
+    <string name="exo_controls_shuffle_on_description">Zufallsmix an</string>
+    <string name="exo_controls_stop_description">Beenden</string>
+    <string name="exo_controls_vr_description">VR-Modus</string>
+    <string name="exo_download_completed">Download abgeschlossen</string>
+    <string name="exo_download_description">Herunterladen</string>
+    <string name="exo_download_downloading">Wird heruntergeladen</string>
+    <string name="exo_download_failed">Download fehlgeschlagen</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_removing">Downloads werden entfernt</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Alle wiederholen</string>
+    <string name="exo_media_action_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_media_action_repeat_one_description">Einen wiederholen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativer Track</string>
+    <string name="exo_track_role_closed_captions">Untertitel</string>
+    <string name="exo_track_role_commentary">Kommentare</string>
+    <string name="exo_track_role_supplementary">Zusatzinhalte</string>
+    <string name="exo_track_selection_auto">Automatisch</string>
+    <string name="exo_track_selection_none">Ohne</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-Sound</string>
+    <string name="exo_track_surround_5_point_1">5.1-Surround-Sound</string>
+    <string name="exo_track_surround_7_point_1">7.1-Surround-Sound</string>
+    <string name="exo_track_unknown">Unbekannt</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="fcm_fallback_notification_channel_label">Sonstiges</string>
+    <string name="governmentid_back_button">Schaltfläche Zurück</string>
+    <string name="governmentid_camera_hint_message">Noch halten...</string>
+    <string name="governmentid_camera_hint_title_back">Rückseite von 
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_title_front">Vorderseite von 
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_title_front_or_back">
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_waiting_message">ID im Rahmen zentrieren</string>
+    <string name="governmentid_camera_overlay_hint_back">Rückseite des 
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g> im Rahmen platzieren
+  </string>
+    <string name="governmentid_camera_overlay_hint_front">Vorderseite des 
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g> im Rahmen platzieren
+  </string>
+    <string name="governmentid_camera_overlay_hint_front_or_back">
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g> im Rahmen platzieren
+  </string>
+    <string name="governmentid_close_button">Schließen-Schaltfläche</string>
+    <string name="governmentid_failed_button">Weiter</string>
+    <string name="governmentid_failed_reason_barcode_not_detected">Vergewissern Sie sich, dass der Strichcode gut sichtbar und nicht verschwommen ist.</string>
+    <string name="governmentid_failed_reason_blurry">Vergewissern Sie sich, dass der Text klar lesbar und nicht verschwommen ist.</string>
+    <string name="governmentid_failed_reason_double_front_detected">Übermitteln Sie ein deutliches Foto der Rückseite Ihres Ausweises</string>
+    <string name="governmentid_failed_reason_expired">Bitte reichen Sie einen gültigen amtlichen Ausweis ein.</string>
+    <string name="governmentid_failed_reason_generic">Vergewissern Sie sich, dass Ihre Ausweisangaben gut lesbar sind.</string>
+    <string name="governmentid_failed_reason_glare">Verringern Sie Blendwirkungen, indem Sie direkte Lichteinstrahlung meiden.</string>
+    <string name="governmentid_failed_reason_mrz_not_detected">Vergewissern Sie sich, dass der codierte Text am unteren Rand gut lesbar und nicht verborgen ist.</string>
+    <string name="governmentid_failed_reason_portrait_missing">Vergewissern Sie sich, dass das Foto Ihres Gesichts sichtbar ist.</string>
+    <string name="governmentid_failed_reason_unprocessable_image">Das Bild konnte nicht verarbeitet werden, bitte reichen Sie eines im Format jpg oder png ein.</string>
+    <string name="governmentid_idlabel_dl">Führerschein</string>
+    <string name="governmentid_idlabel_id">Personalausweis</string>
+    <string name="governmentid_idlabel_ktp">KTP-Karte</string>
+    <string name="governmentid_idlabel_mid">Militärausweis</string>
+    <string name="governmentid_idlabel_myn">Meine Nummernkarte</string>
+    <string name="governmentid_idlabel_nric">NRIC</string>
+    <string name="governmentid_idlabel_ofw">OFWID</string>
+    <string name="governmentid_idlabel_pid">Postausweis</string>
+    <string name="governmentid_idlabel_pp">Reisepass</string>
+    <string name="governmentid_idlabel_ppc">Reisepasskarte</string>
+    <string name="governmentid_idlabel_pr">Daueraufenthaltsausweis</string>
+    <string name="governmentid_idlabel_rp">Aufenthaltserlaubnis</string>
+    <string name="governmentid_idlabel_sp">Aufenthaltserlaubnis für Studenten</string>
+    <string name="governmentid_idlabel_sss">Sozialversicherungsausweis</string>
+    <string name="governmentid_idlabel_umid">UMID</string>
+    <string name="governmentid_idlabel_vid">Wählerausweis</string>
+    <string name="governmentid_idlabel_wp">Arbeitserlaubnis</string>
+    <string name="governmentid_instructions_listheader">Wählen Sie eine der folgenden Optionen</string>
+    <string name="governmentid_review_accept">Sieht gut aus</string>
+    <string name="governmentid_review_content_description">von Ihrer Regierung ausgestellter Ausweis zur Überprüfung</string>
+    <string name="governmentid_review_message">Vergewissern Sie sich, dass die Beleuchtung gut und die Buchstaben gut lesbar sind</string>
+    <string name="governmentid_review_retake">Neu aufnehmen</string>
+    <string name="governmentid_review_title_back">Rückseite prüfen</string>
+    <string name="governmentid_review_title_front">Vorderseite prüfen</string>
+    <string name="governmentid_review_title_front_or_back">Ausweis prüfen</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="inquiry_complete_success_check_mark">Erfolgshäkchen</string>
+    <string name="inquiry_contact_support_comment_hint">Bitte beschreiben Sie das Problem...</string>
+    <string name="inquiry_contact_support_email_hint">E-Mail-Adresse</string>
+    <string name="inquiry_contact_support_name_hint">Name</string>
+    <string name="inquiry_countryselect_all_countries">Alle Länder</string>
+    <string name="inquiry_countryselect_close_button">Schließen-Schaltfläche</string>
+    <string name="inquiry_countryselect_country">Land</string>
+    <string name="inquiry_countryselect_default_country">Vereinigte Staaten</string>
+    <string name="inquiry_countryselect_select_country">Land für diesen Ausweis auswählen</string>
+    <string name="inquiry_countryselect_suggested">Empfohlen</string>
+    <string name="inquiry_fail_image_description">Fehlersymbol</string>
+    <string name="inquiry_start_privacy_policy">Indem Sie fortfahren, erklären Sie sich mit der Datenschutzrichtlinie von <a href="https://withpersona.com/legal/privacy-policy">Persona einverstanden</a>.</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Spalte \"Wochentag\": %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"Pause"</string>
+    <string name="persona_contact_support_body">Geben Sie Ihre E-Mail-Adresse ein und wir werden uns in Kürze bei Ihnen melden, um Ihnen zu helfen.</string>
+    <string name="persona_contact_support_button">Senden</string>
+    <string name="persona_contact_support_title">Prüfung fehlgeschlagen</string>
+    <string name="persona_countryselect_body">So können wir feststellen, wie Ihre Identität am besten nachgewiesen werden kann.</string>
+    <string name="persona_countryselect_button">Land auswählen</string>
+    <string name="persona_countryselect_title">Welcher Staat hat Ihren Ausweis ausgestellt?</string>
+    <string name="persona_database_start_body">Nichts Besonderes, lediglich ein paar Dinge, um Ihre Identität zu prüfen.</string>
+    <string name="persona_database_start_button">Weiter</string>
+    <string name="persona_database_start_title">Nur das Wichtigste</string>
+    <string name="persona_document_camera">Kamera</string>
+    <string name="persona_document_upload">Hochladen</string>
+    <string name="persona_governmentid_failed_title">Fotos konnten nicht überprüft werden</string>
+    <string name="persona_governmentid_start_body">Wir benötigen ein Foto eines amtlichen Ausweises als Identitätsnachweis.</string>
+    <string name="persona_governmentid_start_title">Ausweis mit Foto hochladen</string>
+    <string name="persona_governmentid_submitting_body">Dies kann ein paar Sekunden dauern</string>
+    <string name="persona_governmentid_submitting_title">Ausweis verarbeiten</string>
+    <string name="persona_inquiry_complete_body">Vielen Dank für den Nachweis Ihrer Identität.</string>
+    <string name="persona_inquiry_complete_button">Erledigt</string>
+    <string name="persona_inquiry_complete_title">Herzlichen Glückwunsch, Sie sind fertig!</string>
+    <string name="persona_inquiry_failed_body">Wir konnten Ihre Identität nicht überprüfen.</string>
+    <string name="persona_inquiry_failed_button">Close-Inseln</string>
+    <string name="persona_inquiry_failed_title">Ihre Identität konnte nicht nachgewiesen werden</string>
+    <string name="persona_inquiry_start_body">Lassen Sie uns sicherstellen, dass Sie wirklich Sie sind</string>
+    <string name="persona_inquiry_start_button">Erste Schritte</string>
+    <string name="persona_inquiry_start_title">Weisen Sie Ihre Identität nach</string>
+    <string name="persona_selfie_failed_body">Sorgen Sie dafür, dass Ihr Gesicht gut sichtbar und gut beleuchtet ist, dann versuchen Sie es noch einmal.</string>
+    <string name="persona_selfie_failed_button">Nochmals versuchen</string>
+    <string name="persona_selfie_failed_title">Etwas  hat nicht geklappt</string>
+    <string name="persona_selfie_start_body">Wir möchten uns vergewissern, dass Sie wirklich Sie sind.</string>
+    <string name="persona_selfie_start_button">Erste Schritte</string>
+    <string name="persona_selfie_start_title">Selfie aufnehmen</string>
+    <string name="persona_selfie_submitting_body">Dies kann ein paar Sekunden dauern</string>
+    <string name="persona_selfie_submitting_title">Selfie-Verarbeitung</string>
+    <string name="phone_number_confirm_button">Weiter</string>
+    <string name="phone_number_confirm_subheader">Wir haben einen Bestätigungscode an Ihr Handy geschickt.</string>
+    <string name="phone_number_confirm_title">Bestätigen Sie Ihre Telefonnummer</string>
+    <string name="phone_number_entry_button">Erste Schritte</string>
+    <string name="phone_number_entry_phone_number">Telefonnummer</string>
+    <string name="phone_number_entry_subheader">Wir benötigen Informationen, die uns helfen, Ihre Identität zu überprüfen.</string>
+    <string name="phone_number_entry_title">Geben Sie Ihre Telefonnummer ein</string>
+    <string name="phone_number_name_button">Weiter</string>
+    <string name="phone_number_name_first_name">Vorname</string>
+    <string name="phone_number_name_last_name">Nachname</string>
+    <string name="phone_number_name_subheader">Nichts Besonderes, nur ein paar Dinge zur Überprüfung Ihrer Identität.</string>
+    <string name="phone_number_name_title">Nur das Wichtigste</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"Wiedergeben"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="selfie_close_button_description">Schließen-Schaltfläche</string>
+    <string name="selfie_hint_center">Positionieren Sie sich mittig im Rahmen.</string>
+    <string name="selfie_hint_look_left">Bitte schauen Sie etwas nach links.</string>
+    <string name="selfie_hint_look_right">Schauen Sie ein wenig nach rechts.</string>
+    <string name="selfie_start_biometrics_disclosure">Indem ich fortfahre, bestätige ich, dass Persona meine Gesichtsbiometrie zum Zwecke der Identitätsprüfung analysiert und die biometrischen Daten sofort nach der Verarbeitung löscht.</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"Zum nächsten Element springen"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"Zum vorherigen Element springen"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="ucrop_label_edit_photo">Foto editieren</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Zuschneiden</string>
+</resources>

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="database_us_state_codes">
+    <!-- Matches "database_us_states" in ordering -->
+    <item>AL</item>
+    <item>AK</item>
+    <item>AZ</item>
+    <item>AR</item>
+    <item>CA</item>
+    <item>CO</item>
+    <item>CT</item>
+    <item>DE</item>
+    <item>DC</item>
+    <item>FL</item>
+    <item>GA</item>
+    <item>HI</item>
+    <item>ID</item>
+    <item>IL</item>
+    <item>IN</item>
+    <item>IA</item>
+    <item>KS</item>
+    <item>KY</item>
+    <item>LA</item>
+    <item>ME</item>
+    <item>MD</item>
+    <item>MA</item>
+    <item>MI</item>
+    <item>MN</item>
+    <item>MS</item>
+    <item>MO</item>
+    <item>MT</item>
+    <item>NE</item>
+    <item>NV</item>
+    <item>NH</item>
+    <item>NJ</item>
+    <item>NM</item>
+    <item>NY</item>
+    <item>NC</item>
+    <item>ND</item>
+    <item>OH</item>
+    <item>OK</item>
+    <item>OR</item>
+    <item>PA</item>
+    <item>RI</item>
+    <item>SC</item>
+    <item>SD</item>
+    <item>TN</item>
+    <item>TX</item>
+    <item>UT</item>
+    <item>VT</item>
+    <item>VA</item>
+    <item>WA</item>
+    <item>WV</item>
+    <item>WI</item>
+    <item>WY</item>
+  </string-array>
+    <string-array name="database_us_states">
+    <item>アラバマ</item>
+    <item>アラスカ</item>
+    <item>アリゾナ</item>
+    <item>アーカンソー</item>
+    <item>カリフォルニア</item>
+    <item>コロラド</item>
+    <item>コネチカット</item>
+    <item>デラウェア</item>
+    <item>ワシントンD.C.</item>
+    <item>フロリダ</item>
+    <item>ジョージア</item>
+    <item>ハワイ</item>
+    <item>アイダホ</item>
+    <item>イリノイ</item>
+    <item>インディアナ</item>
+    <item>アイオワ</item>
+    <item>カンザス</item>
+    <item>ケンタッキー</item>
+    <item>ルイジアナ</item>
+    <item>メイン</item>
+    <item>メリーランド</item>
+    <item>マサチューセッツ</item>
+    <item>ミシガン</item>
+    <item>ミネソタ</item>
+    <item>ミシシッピ</item>
+    <item>ミズーリ</item>
+    <item>モンタナ</item>
+    <item>ネブラスカ</item>
+    <item>ネバダ</item>
+    <item>ニューハンプシャー</item>
+    <item>ニュージャージー</item>
+    <item>ニューメキシコ</item>
+    <item>ニューヨーク</item>
+    <item>ノースカロライナ</item>
+    <item>ノースダコタ</item>
+    <item>オハイオ</item>
+    <item>オクラホマ</item>
+    <item>オレゴン</item>
+    <item>ペンシルバニア</item>
+    <item>ロードアイランド</item>
+    <item>サウスカロライナ</item>
+    <item>サウスダコタ</item>
+    <item>テネシー</item>
+    <item>テキサス</item>
+    <item>ユタ</item>
+    <item>バーモント</item>
+    <item>バージニア</item>
+    <item>ワシントン</item>
+    <item>ウェストバージニア</item>
+    <item>ウィスコンシン</item>
+    <item>ワイオミング</item>
+  </string-array>
+    <string-array name="inquiry_countryselect_countries">
+    <item>アフガニスタン</item>
+    <item>アルバニア</item>
+    <item>アルジェリア</item>
+    <item>アメリカ領サモア</item>
+    <item>アンドラ</item>
+    <item>アンゴラ</item>
+    <item>アンギラ</item>
+    <item>南極</item>
+    <item>アンティグア&amp;バーブーダ</item>
+    <item>アルゼンチン</item>
+    <item>アルメニア</item>
+    <item>アルバ</item>
+    <item>アセンション島</item>
+    <item>オーストラリア</item>
+    <item>オーストリア</item>
+    <item>アゼルバイジャン</item>
+    <item>バハマ</item>
+    <item>バーレーン</item>
+    <item>バングラデシュ</item>
+    <item>バルバドス</item>
+    <item>ベラルーシ</item>
+    <item>ベルギー</item>
+    <item>ベリーズ</item>
+    <item>ベナン</item>
+    <item>バミューダ諸島</item>
+    <item>ブータン</item>
+    <item>ボリビア</item>
+    <item>ボスニア&amp;ヘルツェゴビナ</item>
+    <item>ボツワナ</item>
+    <item>ブーベ島</item>
+    <item>ブラジル</item>
+    <item>イギリス領インド洋地域</item>
+    <item>イギリス領ヴァージン諸島</item>
+    <item>ブルネイ</item>
+    <item>ブルガリア</item>
+    <item>ブルキナファソ</item>
+    <item>ブルンジ</item>
+    <item>カンボジア</item>
+    <item>カメルーン</item>
+    <item>カナダ</item>
+    <item>カナリア諸島</item>
+    <item>カーボベルデ</item>
+    <item>ボネール、シント・ユースタティウスおよびサバ</item>
+    <item>ケイマン諸島</item>
+    <item>中央アフリカ共和国</item>
+    <item>セウタ&amp;メリリャ</item>
+    <item>チャド</item>
+    <item>チリ</item>
+    <item>中国</item>
+    <item>クリスマス島</item>
+    <item>クリッパートン島</item>
+    <item>ココス（キーリング）諸島</item>
+    <item>コロンビア</item>
+    <item>コモロ</item>
+    <item>コンゴ - ブラザヴィル</item>
+    <item>コンゴ - キンシャサ</item>
+    <item>クック諸島</item>
+    <item>コスタリカ</item>
+    <item>クロアチア</item>
+    <item>キューバ</item>
+    <item>キュラソー</item>
+    <item>キプロス</item>
+    <item>チェコ共和国</item>
+    <item>コートジボワール</item>
+    <item>デンマーク</item>
+    <item>ディエゴガルシア島</item>
+    <item>ジブチ</item>
+    <item>ドミニカ</item>
+    <item>ドミニカ共和国</item>
+    <item>エクアドル</item>
+    <item>エジプト</item>
+    <item>エルサルバドル</item>
+    <item>赤道ギニア</item>
+    <item>エリトリア</item>
+    <item>エストニア</item>
+    <item>エチオピア</item>
+    <item>欧州連合（EU）</item>
+    <item>フォークランド諸島</item>
+    <item>フェロー諸島</item>
+    <item>フィジー</item>
+    <item>フィンランド</item>
+    <item>フランス</item>
+    <item>フランス領ギアナ</item>
+    <item>フランス領ポリネシア</item>
+    <item>フランス領南方・南極地域</item>
+    <item>ガボン</item>
+    <item>ガンビア</item>
+    <item>ジョージア</item>
+    <item>ドイツ</item>
+    <item>ガーナ</item>
+    <item>ジブラルタル</item>
+    <item>ギリシャ</item>
+    <item>グリーンランド</item>
+    <item>グレナダ</item>
+    <item>グアドループ</item>
+    <item>グアム</item>
+    <item>グアテマラ</item>
+    <item>ガーンジー</item>
+    <item>ギニア・ビサウ</item>
+    <item>ギニア</item>
+    <item>ガイアナ</item>
+    <item>ハイチ</item>
+    <item>ハード島&amp;マクドナルド諸島</item>
+    <item>ホンジュラス</item>
+    <item>香港</item>
+    <item>ハンガリー</item>
+    <item>アイスランド</item>
+    <item>インド</item>
+    <item>インドネシア</item>
+    <item>イラン</item>
+    <item>イラク</item>
+    <item>アイルランド</item>
+    <item>マン島</item>
+    <item>イスラエル</item>
+    <item>イタリア</item>
+    <item>ジャマイカ</item>
+    <item>日本</item>
+    <item>ジャージー</item>
+    <item>ヨルダン</item>
+    <item>カザフスタン</item>
+    <item>ケニア</item>
+    <item>キリバス</item>
+    <item>コソボ</item>
+    <item>クウェート</item>
+    <item>キルギスタン</item>
+    <item>ラオス</item>
+    <item>ラトビア</item>
+    <item>レバノン</item>
+    <item>レソト</item>
+    <item>リベリア</item>
+    <item>リビア</item>
+    <item>リヒテンシュタイン</item>
+    <item>リトアニア</item>
+    <item>ルクセンブルク</item>
+    <item>マカオ</item>
+    <item>マケドニア</item>
+    <item>マダガスカル</item>
+    <item>マラウイ</item>
+    <item>マレーシア</item>
+    <item>モルディブ</item>
+    <item>マリ</item>
+    <item>マルタ</item>
+    <item>マーシャル諸島</item>
+    <item>マルティニーク</item>
+    <item>モーリタニア</item>
+    <item>モーリシャス</item>
+    <item>マヨット</item>
+    <item>メキシコ</item>
+    <item>ミクロネシア</item>
+    <item>モルドバ</item>
+    <item>モナコ</item>
+    <item>モンゴル</item>
+    <item>モンテネグロ</item>
+    <item>モントセラト</item>
+    <item>モロッコ</item>
+    <item>モザンビーク</item>
+    <item>ミャンマー（ビルマ）</item>
+    <item>ナミビア</item>
+    <item>ナウル</item>
+    <item>ネパール</item>
+    <item>オランダ</item>
+    <item>ニューカレドニア</item>
+    <item>ニュージーランド</item>
+    <item>ニカラグア</item>
+    <item>ニジェール</item>
+    <item>ナイジェリア</item>
+    <item>ニウエ</item>
+    <item>ノーフォーク島</item>
+    <item>北朝鮮</item>
+    <item>北マリアナ諸島 </item>
+    <item>ノルウェー</item>
+    <item>オマーン</item>
+    <item>オセアニア諸島</item>
+    <item>パキスタン</item>
+    <item>パラオ</item>
+    <item>パレスチナ自治区</item>
+    <item>パナマ</item>
+    <item>パプアニューギニア</item>
+    <item>パラグアイ</item>
+    <item>ペルー</item>
+    <item>フィリピン</item>
+    <item>ピトケアン諸島</item>
+    <item>ポーランド</item>
+    <item>ポルトガル</item>
+    <item>プエルトリコ</item>
+    <item>カタール</item>
+    <item>ルーマニア</item>
+    <item>ロシア</item>
+    <item>ルワンダ</item>
+    <item>レユニオン</item>
+    <item>サン・マルタン</item>
+    <item>サモア</item>
+    <item>サンマリノ</item>
+    <item>サウジアラビア</item>
+    <item>セネガル</item>
+    <item>セルビア</item>
+    <item>セーシェル</item>
+    <item>シエラレオネ</item>
+    <item>シンガポール</item>
+    <item>スロバキア</item>
+    <item>スロベニア</item>
+    <item>ソロモン諸島</item>
+    <item>ソマリア</item>
+    <item>南アフリカ</item>
+    <item>サウスジョージア&amp;サウスサンドウィッチ諸島</item>
+    <item>韓国</item>
+    <item>南スーダン</item>
+    <item>スペイン</item>
+    <item>スリランカ</item>
+    <item>サン・バルテルミー島</item>
+    <item>セントヘレナ </item>
+    <item>セントクリストファー&amp;ネイビス</item>
+    <item>セントルシア</item>
+    <item>セント・マーチン島</item>
+    <item>サンピエール島&amp;ミクロン島</item>
+    <item>セントビンセント&amp;グレナディーン</item>
+    <item>スーダン</item>
+    <item>スリナム</item>
+    <item>スヴァールバル諸島&amp;ヤンマイエン島</item>
+    <item>エスワティニ</item>
+    <item>スウェーデン</item>
+    <item>スイス</item>
+    <item>シリア</item>
+    <item>サントメ&amp;プリンシペ</item>
+    <item>台湾</item>
+    <item>タジキスタン</item>
+    <item>タンザニア</item>
+    <item>タイ</item>
+    <item>東ティモール</item>
+    <item>トーゴ</item>
+    <item>トケラウ</item>
+    <item>トンガ</item>
+    <item>トリニダード&amp;トバゴ</item>
+    <item>トリスタンダクーニャ</item>
+    <item>チュニジア</item>
+    <item>トルコ</item>
+    <item>トルクメニスタン</item>
+    <item>タークス&amp;カイコス諸島</item>
+    <item>ツバル</item>
+    <item>合衆国領有小離島</item>
+    <item>アメリカ領ヴァージン諸島</item>
+    <item>ウガンダ</item>
+    <item>ウクライナ</item>
+    <item>アラブ首長国連邦</item>
+    <item>イギリス</item>
+    <item>アメリカ</item>
+    <item>ウルグアイ</item>
+    <item>ウズベキスタン</item>
+    <item>バヌアツ</item>
+    <item>バチカン市国</item>
+    <item>ベネズエラ</item>
+    <item>ベトナム</item>
+    <item>ウォリス&amp;フツナ</item>
+    <item>西サハラ</item>
+    <item>イエメン</item>
+    <item>ザンビア</item>
+    <item>ジンバブエ</item>
+    <item>オーランド諸島</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d 秒早送り</item>
+    <item quantity="other">%d 秒早送り</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d 秒巻き戻し</item>
+    <item quantity="other">%d 秒巻き戻し</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 件の新しい通知</item>
+    <item quantity="other">%d 件の新しい通知</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 開発者サービスの利用"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string name="database_birthdate_format">yyyy-mm-dd</string>
+    <string name="database_hint_address_city">市区町村</string>
+    <string name="database_hint_address_country">国</string>
+    <string name="database_hint_address_postal_code">郵便番号</string>
+    <string name="database_hint_address_street_1">住所</string>
+    <string name="database_hint_address_street_2">アパート／部屋番号</string>
+    <string name="database_hint_address_subdivision">都道府県</string>
+    <string name="database_hint_first_name">名</string>
+    <string name="database_hint_last_name">姓</string>
+    <string name="database_label_address">住所</string>
+    <string name="database_label_birthdate">生年月日</string>
+    <string name="database_label_identification_number_ssn_full">SSN</string>
+    <string name="database_label_identification_number_ssn_last_4">SSNの下4桁の数字</string>
+    <string name="database_label_name">名前</string>
+    <string name="database_label_phone_number">電話番号</string>
+    <string name="database_prompt_address_select_subdivision">都道府県を選択</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"再生中"</string>
+    <string name="document_instruction_content_Description">ドキュメントを表すアイコン</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="exo_controls_cc_disabled_description">字幕の有効化</string>
+    <string name="exo_controls_cc_enabled_description">字幕の無効化</string>
+    <string name="exo_controls_fastforward_description">早送り</string>
+    <string name="exo_controls_fullscreen_enter_description">全画面表示に変更</string>
+    <string name="exo_controls_fullscreen_exit_description">全画面表示を終了</string>
+    <string name="exo_controls_hide">プレーヤーのコントロールを非表示にする</string>
+    <string name="exo_controls_next_description">次へ</string>
+    <string name="exo_controls_overflow_hide_description">その他の設定の非表示</string>
+    <string name="exo_controls_overflow_show_description">その他の設定の表示</string>
+    <string name="exo_controls_pause_description">一時停止</string>
+    <string name="exo_controls_play_description">再生</string>
+    <string name="exo_controls_playback_speed">速度</string>
+    <string name="exo_controls_playback_speed_normal">標準</string>
+    <string name="exo_controls_previous_description">前へ</string>
+    <string name="exo_controls_repeat_all_description">全曲をリピート</string>
+    <string name="exo_controls_repeat_off_description">リピートなし</string>
+    <string name="exo_controls_repeat_one_description">1 曲をリピート</string>
+    <string name="exo_controls_rewind_description">巻き戻し</string>
+    <string name="exo_controls_seek_bar_description">再生中</string>
+    <string name="exo_controls_settings_description">設定</string>
+    <string name="exo_controls_show">プレーヤーのコントロールを表示する</string>
+    <string name="exo_controls_shuffle_off_description">シャッフル OFF</string>
+    <string name="exo_controls_shuffle_on_description">シャッフル ON</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_controls_vr_description">VR モード</string>
+    <string name="exo_download_completed">ダウンロードが完了しました</string>
+    <string name="exo_download_description">ダウンロード</string>
+    <string name="exo_download_downloading">ダウンロードしています</string>
+    <string name="exo_download_failed">ダウンロードに失敗しました</string>
+    <string name="exo_download_notification_channel_name">ダウンロード</string>
+    <string name="exo_download_removing">ダウンロードを削除しています</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_media_action_repeat_all_description">全曲をリピート</string>
+    <string name="exo_media_action_repeat_off_description">リピートなし</string>
+    <string name="exo_media_action_repeat_one_description">1 曲をリピート</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">モノラル</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">代替</string>
+    <string name="exo_track_role_closed_captions">字幕</string>
+    <string name="exo_track_role_commentary">解説</string>
+    <string name="exo_track_role_supplementary">補足</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_none">なし</string>
+    <string name="exo_track_selection_title_audio">音声</string>
+    <string name="exo_track_selection_title_text">文字</string>
+    <string name="exo_track_selection_title_video">動画</string>
+    <string name="exo_track_stereo">ステレオ</string>
+    <string name="exo_track_surround">サラウンド サウンド</string>
+    <string name="exo_track_surround_5_point_1">5.1 サラウンド サウンド</string>
+    <string name="exo_track_surround_7_point_1">7.1 サラウンド サウンド</string>
+    <string name="exo_track_unknown">不明</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="fcm_fallback_notification_channel_label">その他</string>
+    <string name="governmentid_back_button">戻るボタン</string>
+    <string name="governmentid_camera_hint_message">じっとしてください…</string>
+    <string name="governmentid_camera_hint_title_back"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>の裏面</string>
+    <string name="governmentid_camera_hint_title_front"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>の表面</string>
+    <string name="governmentid_camera_hint_title_front_or_back"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g></string>
+    <string name="governmentid_camera_hint_waiting_message">フレームの中央に身分証明書を置いてください</string>
+    <string name="governmentid_camera_overlay_hint_back"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g> の裏面を枠内に配置します</string>
+    <string name="governmentid_camera_overlay_hint_front"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>の表面を枠内に配置します</string>
+    <string name="governmentid_camera_overlay_hint_front_or_back"><ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>を枠内に配置します</string>
+    <string name="governmentid_close_button">閉じるボタン</string>
+    <string name="governmentid_failed_button">続行する</string>
+    <string name="governmentid_failed_reason_barcode_not_detected">バーコードが見えていて、ぼやけていないことを確認してください。</string>
+    <string name="governmentid_failed_reason_blurry">すべてのテキストが読みやすくぼやけていないことを確認してください。</string>
+    <string name="governmentid_failed_reason_double_front_detected">身分証の裏面の鮮明な写真を送信してください。</string>
+    <string name="governmentid_failed_reason_expired">期限の切れていない政府発行の身分証明書を送信してください。</string>
+    <string name="governmentid_failed_reason_generic">身分証明書の情報が読めるようにしてください。</string>
+    <string name="governmentid_failed_reason_glare">直射日光から離れてまぶしさを減らしてください。</string>
+    <string name="governmentid_failed_reason_mrz_not_detected">最下部のエンコードされたテキストがはっきりしていて、不明瞭でないことを確認してください。</string>
+    <string name="governmentid_failed_reason_portrait_missing">顔の写真が見えるようにしてください。</string>
+    <string name="governmentid_failed_reason_unprocessable_image">画像を処理できませんでした。jpgまたはpngを送信してください。</string>
+    <string name="governmentid_idlabel_dl">運転免許証</string>
+    <string name="governmentid_idlabel_id">州身分証明書</string>
+    <string name="governmentid_idlabel_ktp">KTPカード</string>
+    <string name="governmentid_idlabel_mid">軍事ID</string>
+    <string name="governmentid_idlabel_myn">マイナンバーカード</string>
+    <string name="governmentid_idlabel_nric">NRIC</string>
+    <string name="governmentid_idlabel_ofw">OFWID</string>
+    <string name="governmentid_idlabel_pid">郵便ID</string>
+    <string name="governmentid_idlabel_pp">パスポート</string>
+    <string name="governmentid_idlabel_ppc">パスポートカード</string>
+    <string name="governmentid_idlabel_pr">永住者カード</string>
+    <string name="governmentid_idlabel_rp">居住許可証</string>
+    <string name="governmentid_idlabel_sp">学生許可証</string>
+    <string name="governmentid_idlabel_sss">社会保障ID</string>
+    <string name="governmentid_idlabel_umid">UMID</string>
+    <string name="governmentid_idlabel_vid">投票者ID</string>
+    <string name="governmentid_idlabel_wp">労働許可証</string>
+    <string name="governmentid_instructions_listheader">以下の選択肢の中から1つを選択してください</string>
+    <string name="governmentid_review_accept">良さそうです</string>
+    <string name="governmentid_review_content_description">確認を行う政府発行の身分証明書</string>
+    <string name="governmentid_review_message">照明が明るく、文字がはっきりしていることを確認してください。</string>
+    <string name="governmentid_review_retake">再撮影</string>
+    <string name="governmentid_review_title_back">裏面を確認する</string>
+    <string name="governmentid_review_title_front">表面を確認する</string>
+    <string name="governmentid_review_title_front_or_back">身分証明書を確認する</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="inquiry_complete_success_check_mark">成功確認マーク</string>
+    <string name="inquiry_contact_support_comment_hint">問題について説明してください…</string>
+    <string name="inquiry_contact_support_email_hint">メールアドレス</string>
+    <string name="inquiry_contact_support_name_hint">名前</string>
+    <string name="inquiry_countryselect_all_countries">すべての国</string>
+    <string name="inquiry_countryselect_close_button">閉じるボタン</string>
+    <string name="inquiry_countryselect_country">国</string>
+    <string name="inquiry_countryselect_default_country">アメリカ</string>
+    <string name="inquiry_countryselect_select_country">身分証明書の国を選択</string>
+    <string name="inquiry_countryselect_suggested">提案</string>
+    <string name="inquiry_fail_image_description">障害記号</string>
+    <string name="inquiry_start_privacy_policy">続行すると、Personaの<a href="https://withpersona.com/legal/privacy-policy">プライバシーポリシー</a>に同意することになります。</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_selection">時刻を選択してください</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時間</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時間を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">曜日の列: %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">タップすると、日の選択に切り替わります</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">タップすると、年の選択に切り替わります</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"一時停止"</string>
+    <string name="persona_contact_support_body">メールアドレスを入力していただければ、折り返しご連絡いたします。</string>
+    <string name="persona_contact_support_button">送信</string>
+    <string name="persona_contact_support_title">認証に失敗しました</string>
+    <string name="persona_countryselect_body">これは、本人確認するための最良の方法を決定するのに役立ちます。</string>
+    <string name="persona_countryselect_button">国を選択</string>
+    <string name="persona_countryselect_title">あなたの政府発行身分証明書はどこの国が発行していますか？</string>
+    <string name="persona_database_start_body">派手さはありません。本人確認の少しの手続きだけがあります。</string>
+    <string name="persona_database_start_button">続行する</string>
+    <string name="persona_database_start_title">基本的なことだけ</string>
+    <string name="persona_document_camera">カメラ</string>
+    <string name="persona_document_upload">アップロード</string>
+    <string name="persona_governmentid_failed_title">写真を確認できませんでした</string>
+    <string name="persona_governmentid_start_body">本人確認のために政府発行身分証明書の写真が必要です。</string>
+    <string name="persona_governmentid_start_title">写真付きの身分証明書をアップロード</string>
+    <string name="persona_governmentid_submitting_body">数秒かかることがあります</string>
+    <string name="persona_governmentid_submitting_title">処理中の身分証明書</string>
+    <string name="persona_inquiry_complete_body">本人確認をしていただきありがとうございます。</string>
+    <string name="persona_inquiry_complete_button">完了</string>
+    <string name="persona_inquiry_complete_title">おめでとうございます。完了しました！</string>
+    <string name="persona_inquiry_failed_body">本人確認ができませんでした。</string>
+    <string name="persona_inquiry_failed_button">閉じる</string>
+    <string name="persona_inquiry_failed_title">本人確認ができませんでした</string>
+    <string name="persona_inquiry_start_body">本人であることを確認しましょう</string>
+    <string name="persona_inquiry_start_button">開始する</string>
+    <string name="persona_inquiry_start_title">本人確認を行う</string>
+    <string name="persona_selfie_failed_body">顔が見えているか、光がよく当たっているかを確認して、もう一度試してみてください。</string>
+    <string name="persona_selfie_failed_button">再試行する</string>
+    <string name="persona_selfie_failed_title">問題が発生しました</string>
+    <string name="persona_selfie_start_body">本人であることを確認しましょう.</string>
+    <string name="persona_selfie_start_button">開始する</string>
+    <string name="persona_selfie_start_title">セルフィーを撮影</string>
+    <string name="persona_selfie_submitting_body">数秒かかることがあります</string>
+    <string name="persona_selfie_submitting_title">セルフィーを処理中です</string>
+    <string name="phone_number_confirm_button">続行する</string>
+    <string name="phone_number_confirm_subheader">あなたの携帯電話に確認コードを送信しました。</string>
+    <string name="phone_number_confirm_title">電話番号を確認してください</string>
+    <string name="phone_number_entry_button">開始する</string>
+    <string name="phone_number_entry_phone_number">電話番号</string>
+    <string name="phone_number_entry_subheader">本人確認のための情報が必要です。</string>
+    <string name="phone_number_entry_title">電話番号を入力してください</string>
+    <string name="phone_number_name_button">続行する</string>
+    <string name="phone_number_name_first_name">名</string>
+    <string name="phone_number_name_last_name">姓</string>
+    <string name="phone_number_name_subheader">派手さはありません。本人確認の少しの手続きだけがあります。</string>
+    <string name="phone_number_name_title">基本的なことだけ</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"再生"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string name="selfie_close_button_description">閉じるボタン</string>
+    <string name="selfie_hint_center">あなたの顔を枠内に収めてください。</string>
+    <string name="selfie_hint_look_left">少し左を見てください。</string>
+    <string name="selfie_hint_look_right">少し右を見てください。</string>
+    <string name="selfie_start_biometrics_disclosure">続行することで、Personaが本人確認の目的で顔のバイオメトリクスを分析し、処理後すぐにバイオメトリクスデータを削除することを認めます。</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"次の項目にスキップ"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"前の項目にスキップ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

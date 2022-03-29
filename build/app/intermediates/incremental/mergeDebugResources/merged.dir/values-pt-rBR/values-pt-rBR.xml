@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="database_us_state_codes">
+    <!-- Matches "database_us_states" in ordering -->
+    <item>AL</item>
+    <item>AK</item>
+    <item>AZ</item>
+    <item>AR</item>
+    <item>CA</item>
+    <item>CO</item>
+    <item>CT</item>
+    <item>DE</item>
+    <item>DC</item>
+    <item>FL</item>
+    <item>GA</item>
+    <item>HI</item>
+    <item>ID</item>
+    <item>IL</item>
+    <item>IN</item>
+    <item>IA</item>
+    <item>KS</item>
+    <item>KY</item>
+    <item>LA</item>
+    <item>ME</item>
+    <item>MD</item>
+    <item>MA</item>
+    <item>MI</item>
+    <item>MN</item>
+    <item>MS</item>
+    <item>MO</item>
+    <item>MT</item>
+    <item>NE</item>
+    <item>NV</item>
+    <item>NH</item>
+    <item>NJ</item>
+    <item>NM</item>
+    <item>NY</item>
+    <item>NC</item>
+    <item>ND</item>
+    <item>OH</item>
+    <item>OK</item>
+    <item>OR</item>
+    <item>PA</item>
+    <item>RI</item>
+    <item>SC</item>
+    <item>SD</item>
+    <item>TN</item>
+    <item>TX</item>
+    <item>UT</item>
+    <item>VT</item>
+    <item>VA</item>
+    <item>WA</item>
+    <item>WV</item>
+    <item>WI</item>
+    <item>WY</item>
+  </string-array>
+    <string-array name="database_us_states">
+    <item>Alabama</item>
+    <item>Alaska</item>
+    <item>Arizona</item>
+    <item>Arkansas</item>
+    <item>Califórnia</item>
+    <item>Colorado</item>
+    <item>Connecticut</item>
+    <item>Delaware</item>
+    <item>Distrito de Colúmbia</item>
+    <item>Flórida</item>
+    <item>Geórgia</item>
+    <item>Havaí</item>
+    <item>Idaho</item>
+    <item>Illinois</item>
+    <item>Indiana</item>
+    <item>Iowa</item>
+    <item>Kansas</item>
+    <item>Kentucky</item>
+    <item>Luisiana</item>
+    <item>Maine</item>
+    <item>Maryland</item>
+    <item>Massachusetts</item>
+    <item>Michigan</item>
+    <item>Minnesota</item>
+    <item>Mississippi</item>
+    <item>Missouri</item>
+    <item>Montana</item>
+    <item>Nebraska</item>
+    <item>Nevada</item>
+    <item>New Hampshire</item>
+    <item>Nova Jersey</item>
+    <item>Novo México</item>
+    <item>Nova York</item>
+    <item>Carolina do Norte</item>
+    <item>Dakota do Norte</item>
+    <item>Ohio</item>
+    <item>Oklahoma</item>
+    <item>Oregon</item>
+    <item>Pensilvânia</item>
+    <item>Ilha de Rode</item>
+    <item>Carolina do Sul</item>
+    <item>Dakota do Sul</item>
+    <item>Tennessee</item>
+    <item>Texas</item>
+    <item>Utah</item>
+    <item>Vermont</item>
+    <item>Virginia</item>
+    <item>Washington</item>
+    <item>West Virginia</item>
+    <item>Wisconsin</item>
+    <item>Wyoming</item>
+  </string-array>
+    <string-array name="inquiry_countryselect_countries">
+    <item>Afeganistão</item>
+    <item>Albânia</item>
+    <item>Argélia</item>
+    <item>Samoa Americana</item>
+    <item>Andorra</item>
+    <item>Angola</item>
+    <item>Anguila</item>
+    <item>Antártida</item>
+    <item>Antígua e Barbuda</item>
+    <item>Argentina</item>
+    <item>Armênia</item>
+    <item>Aruba</item>
+    <item>Ilha de Ascensão</item>
+    <item>Austrália</item>
+    <item>Áustria</item>
+    <item>Azerbaidjão</item>
+    <item>Bahamas</item>
+    <item>Barém</item>
+    <item>Bangladeche</item>
+    <item>Barbados</item>
+    <item>Bielorrússia</item>
+    <item>Bélgica</item>
+    <item>Belize</item>
+    <item>Benim</item>
+    <item>Bermudas</item>
+    <item>Butão</item>
+    <item>Bolívia</item>
+    <item>Bósnia e Herzegovina</item>
+    <item>Botsuana</item>
+    <item>Ilha Bouvet</item>
+    <item>Brasil</item>
+    <item>Território Britânico do Oceano Índico</item>
+    <item>Ilhas Virgens Britânicas</item>
+    <item>Brunei</item>
+    <item>Bulgária</item>
+    <item>Burquina Faso</item>
+    <item>Burundi</item>
+    <item>Camboja</item>
+    <item>Camarões</item>
+    <item>Canadá</item>
+    <item>Ilhas Canárias</item>
+    <item>Cabo Verde</item>
+    <item>Países Baixos Caribenhos</item>
+    <item>Ilhas Cayman</item>
+    <item>República Centro-Africana</item>
+    <item>Ceuta e Melila</item>
+    <item>Chade</item>
+    <item>Chile</item>
+    <item>China</item>
+    <item>Ilha Christmas</item>
+    <item>Ilha de Clipperton</item>
+    <item>Ilhas dos Cocos (Keeling)</item>
+    <item>Colômbia</item>
+    <item>Comores</item>
+    <item>Congo/Brazzaville</item>
+    <item>Congo -  Quinxassa</item>
+    <item>Ilhas Cook</item>
+    <item>Costa Rica</item>
+    <item>Croácia</item>
+    <item>Cuba</item>
+    <item>Curaçao</item>
+    <item>Chipre</item>
+    <item>República Checa</item>
+    <item>Costa do Marfim</item>
+    <item>Dinamarca</item>
+    <item>Diego Garcia</item>
+    <item>Djibouti</item>
+    <item>Domínica</item>
+    <item>República Dominicana</item>
+    <item>Equador</item>
+    <item>Egito</item>
+    <item>El Salvador</item>
+    <item>Guiné Equatorial</item>
+    <item>Eritreia</item>
+    <item>Estônia</item>
+    <item>Etiópia</item>
+    <item>União Europeia</item>
+    <item>Ilhas Falkland</item>
+    <item>Ilhas Faroe</item>
+    <item>Ilhas Fiji</item>
+    <item>Finlândia</item>
+    <item>França</item>
+    <item>Guiana Francesa</item>
+    <item>Polinésia Francesa</item>
+    <item>Terras Austrais e Antárticas Francesas</item>
+    <item>Gabão</item>
+    <item>Gâmbia</item>
+    <item>Geórgia</item>
+    <item>Alemanha</item>
+    <item>Gana</item>
+    <item>Gibraltar</item>
+    <item>Grécia</item>
+    <item>Groenlândia</item>
+    <item>Granada</item>
+    <item>Guadalupe</item>
+    <item>Guame</item>
+    <item>Guatemala</item>
+    <item>Guernsey</item>
+    <item>Guiné-Bissau</item>
+    <item>Guiné</item>
+    <item>Guiana</item>
+    <item>Haiti</item>
+    <item>Ilha Heard e Ilhas McDonald</item>
+    <item>Honduras</item>
+    <item>Hong Kong</item>
+    <item>Hungria</item>
+    <item>Islândia</item>
+    <item>Índia</item>
+    <item>Indonésia</item>
+    <item>Irã</item>
+    <item>Iraque</item>
+    <item>Irlanda</item>
+    <item>Ilha de Man</item>
+    <item>Israel</item>
+    <item>Itália</item>
+    <item>Jamaica</item>
+    <item>Japão</item>
+    <item>Jersey</item>
+    <item>Jordânia</item>
+    <item>Cazaquistão</item>
+    <item>Quênia</item>
+    <item>Quiribáti</item>
+    <item>Kosovo</item>
+    <item>Kuwait</item>
+    <item>Quirguistão</item>
+    <item>Laos</item>
+    <item>Letônia</item>
+    <item>Líbano</item>
+    <item>Lesoto</item>
+    <item>Libéria</item>
+    <item>Líbia</item>
+    <item>Liechtenstein</item>
+    <item>Lituânia</item>
+    <item>Luxemburgo</item>
+    <item>Macau</item>
+    <item>Macedônia</item>
+    <item>Madagascar</item>
+    <item>Malawi</item>
+    <item>Malásia</item>
+    <item>Maldivas</item>
+    <item>Mali</item>
+    <item>Malta</item>
+    <item>Ilhas Marshall</item>
+    <item>Martinica</item>
+    <item>Mauritânia</item>
+    <item>Maurício</item>
+    <item>Maiote</item>
+    <item>México</item>
+    <item>Micronésia</item>
+    <item>Moldávia</item>
+    <item>Mônaco</item>
+    <item>Mongólia</item>
+    <item>Montenegro</item>
+    <item>Montserrat</item>
+    <item>Marrocos</item>
+    <item>Moçambique</item>
+    <item>Mianmar (Birmânia)</item>
+    <item>Namíbia</item>
+    <item>Nauru</item>
+    <item>Nepal</item>
+    <item>Países Baixos</item>
+    <item>Nova Caledônia</item>
+    <item>Nova Zelândia</item>
+    <item>Nicarágua</item>
+    <item>Níger</item>
+    <item>Nigéria</item>
+    <item>Niuê</item>
+    <item>Ilha Norfolk</item>
+    <item>Coreia do Norte</item>
+    <item>Ilhas Marianas do Norte</item>
+    <item>Noruega</item>
+    <item>Omã</item>
+    <item>Oceania Remota</item>
+    <item>Paquistão</item>
+    <item>Palau</item>
+    <item>Territórios Palestinos</item>
+    <item>Panamá</item>
+    <item>Papua-Nova Guiné</item>
+    <item>Paraguai</item>
+    <item>Peru</item>
+    <item>Filipinas</item>
+    <item>Ilhas Pitcairn</item>
+    <item>Polónia</item>
+    <item>Portugal</item>
+    <item>Porto Rico</item>
+    <item>Catar</item>
+    <item>Romênia</item>
+    <item>Rússia</item>
+    <item>Ruanda</item>
+    <item>Reunião</item>
+    <item>São Martinho</item>
+    <item>Samoa</item>
+    <item>San Marino</item>
+    <item>Arábia Saudita</item>
+    <item>Senegal</item>
+    <item>Sérvia</item>
+    <item>Seicheles</item>
+    <item>Serra Leoa</item>
+    <item>Cingapura</item>
+    <item>Eslováquia</item>
+    <item>Eslovênia</item>
+    <item>Ilhas Salomão</item>
+    <item>Somália</item>
+    <item>África do Sul</item>
+    <item>Ilhas Geórgia do Sul e Sandwich do Sul</item>
+    <item>Coreia do Sul</item>
+    <item>Sudão do Sul</item>
+    <item>Espanha</item>
+    <item>Sri Lanka</item>
+    <item>São Bartolomeu</item>
+    <item>Santa Helena</item>
+    <item>São Cristóvão e Neves</item>
+    <item>Santa Lúcia</item>
+    <item>São Martinho (Sint Maarten)</item>
+    <item>Saint-Pierre e Miquelon</item>
+    <item>São Vicente e Granadinas</item>
+    <item>Sudão</item>
+    <item>Suriname</item>
+    <item>Svalbard e Jan Mayen</item>
+    <item>Suazilândia</item>
+    <item>Suécia</item>
+    <item>Suíça</item>
+    <item>Síria</item>
+    <item>São Tomé e Príncipe</item>
+    <item>Taiwan</item>
+    <item>Tajiquistão</item>
+    <item>Tanzânia</item>
+    <item>Tailândia</item>
+    <item>Timor-Leste</item>
+    <item>Togo</item>
+    <item>Toquelau</item>
+    <item>Tonga</item>
+    <item>Trindade e Tobago</item>
+    <item>Tristão da Cunha</item>
+    <item>Tunísia</item>
+    <item>Turquia</item>
+    <item>Turquemenistão</item>
+    <item>Ilhas Turcas e Caicos</item>
+    <item>Tuvalu</item>
+    <item>Ilhas Menores Afastadas dos Estados Unidos</item>
+    <item>Ilhas Virgens Americanas</item>
+    <item>Uganda</item>
+    <item>Ucrânia</item>
+    <item>Emirados Árabes Unidos</item>
+    <item>Reino Unido</item>
+    <item>Estados Unidos</item>
+    <item>Uruguai</item>
+    <item>Usbequistão</item>
+    <item>Vanuatu</item>
+    <item>Cidade do Vaticano</item>
+    <item>Venezuela</item>
+    <item>Vietnã</item>
+    <item>Wallis e Futuna</item>
+    <item>Saara Ocidental</item>
+    <item>Iêmen</item>
+    <item>Zâmbia</item>
+    <item>Zimbábue</item>
+    <item>Ilhas de Aland</item>
+  </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova notificação</item>
+    <item quantity="other">%d novas notificações</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
+    <string name="clear_text_end_icon_content_description">Limpar texto</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ativar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com o Google Play Services ativado."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ativar o Google Play Services"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"O app <ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalar o Google Play Services"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidade do Google Play Services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erro do Google Play Services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"O app <ns1:g id="APP_NAME">%1$s</ns1:g> está com problemas com o Google Play Services. Tente novamente."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"O app <ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com uma versão atualizada do Google Play Services."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atualizar o Google Play Services"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"É necessária uma nova versão do Google Play Services. Ele será atualizado em breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir no smartphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Fazer login"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Fazer login com o Google"</string>
+    <string name="database_birthdate_format">dd-mm-yyyy</string>
+    <string name="database_hint_address_city">Cidade</string>
+    <string name="database_hint_address_country">País</string>
+    <string name="database_hint_address_postal_code">CEP</string>
+    <string name="database_hint_address_street_1">Logradouro e número</string>
+    <string name="database_hint_address_street_2">Apt</string>
+    <string name="database_hint_address_subdivision">Estado</string>
+    <string name="database_hint_first_name">Nome</string>
+    <string name="database_hint_last_name">Sobrenome</string>
+    <string name="database_label_address">Endereço</string>
+    <string name="database_label_birthdate">Data de nascimento</string>
+    <string name="database_label_identification_number_ssn_full">SSN</string>
+    <string name="database_label_identification_number_ssn_last_4">Quatro últimos números de SSN</string>
+    <string name="database_label_name">Nome</string>
+    <string name="database_label_phone_number">Número de telefone</string>
+    <string name="database_prompt_address_select_subdivision">Selecione o estado</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"Tocando agora"</string>
+    <string name="document_instruction_content_Description">ícone simbolizando um documento</string>
+    <string name="error_icon_content_description">Erro</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+    <string name="fcm_fallback_notification_channel_label">Diversos</string>
+    <string name="governmentid_back_button">botão voltar</string>
+    <string name="governmentid_camera_hint_message">Fique imóvel…</string>
+    <string name="governmentid_camera_hint_title_back">Verso do documento de
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_title_front">Frente do documento de
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_waiting_message">Tire uma foto nítida de seu documento</string>
+    <string name="governmentid_camera_overlay_hint_back">Posicione o verso de seu
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+    no meio do quadro
+  </string>
+    <string name="governmentid_camera_overlay_hint_front">Posicione a frente de seu
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+    no meio do quadro
+  </string>
+    <string name="governmentid_close_button">botão fechar</string>
+    <string name="governmentid_failed_button">Continuar</string>
+    <string name="governmentid_failed_reason_barcode_not_detected">Verifique se o código de barras está visível e não está borrado.</string>
+    <string name="governmentid_failed_reason_blurry">Verifique se todo o texto está legível e não está borrado.</string>
+    <string name="governmentid_failed_reason_double_front_detected">Envie uma foto nítida do verso do seu documento de identificação.</string>
+    <string name="governmentid_failed_reason_expired">Envie uma identificação oficial com prazo válido.</string>
+    <string name="governmentid_failed_reason_generic">Certifique-se de que os detalhes do seu documento estão claros e nítidos.</string>
+    <string name="governmentid_failed_reason_glare">Reduza o brilho excessivo afastando-se da luz direta.</string>
+    <string name="governmentid_failed_reason_mrz_not_detected">Verifique se o texto codificado na parte inferior está nítido e legível.</string>
+    <string name="governmentid_failed_reason_portrait_missing">Verifique se a foto do seu rosto está visível.</string>
+    <string name="governmentid_failed_reason_unprocessable_image">Não foi possível processar a imagem. Envie um jpg ou png.</string>
+    <string name="governmentid_idlabel_dl">Carteira de habilitação (CNH)</string>
+    <string name="governmentid_idlabel_id">Identificação estatal</string>
+    <string name="governmentid_idlabel_ktp">Cartão KTP</string>
+    <string name="governmentid_idlabel_mid">Identificação militar</string>
+    <string name="governmentid_idlabel_myn">Cartão My Number</string>
+    <string name="governmentid_idlabel_nric">NRIC</string>
+    <string name="governmentid_idlabel_ofw">OFWID</string>
+    <string name="governmentid_idlabel_pid">Carteira de Identidade Postal</string>
+    <string name="governmentid_idlabel_pp">Passaporte</string>
+    <string name="governmentid_idlabel_ppc">Cartão de passaporte</string>
+    <string name="governmentid_idlabel_pr">Cartão de residente permanente</string>
+    <string name="governmentid_idlabel_rp">Autorização de residência</string>
+    <string name="governmentid_idlabel_sp">Autorização de estudante</string>
+    <string name="governmentid_idlabel_sss">Número da previdência social</string>
+    <string name="governmentid_idlabel_umid">UMID</string>
+    <string name="governmentid_idlabel_vid">Título de eleitor</string>
+    <string name="governmentid_idlabel_wp">Autorização de trabalho</string>
+    <string name="governmentid_instructions_listheader">Escolha 1 das seguintes opções</string>
+    <string name="governmentid_review_accept">Usar esta foto</string>
+    <string name="governmentid_review_content_description">identificação oficial para análise</string>
+    <string name="governmentid_review_message">Certifique-se de ter boa iluminação e que todas as palavras estão nítidas antes de continuar.</string>
+    <string name="governmentid_review_retake">Tirar outra foto</string>
+    <string name="governmentid_review_title_back">Revise o verso de seu documento</string>
+    <string name="governmentid_review_title_front">Revise a frente de seu documento</string>
+    <string name="governmentid_review_title_front_or_back">Revise a documento</string>
+    <string name="icon_content_description">Ícone de caixa de diálogo</string>
+    <string name="inquiry_complete_success_check_mark">marca de confirmação de sucesso</string>
+    <string name="inquiry_contact_support_comment_hint">Por favor, descreva o problema...</string>
+    <string name="inquiry_contact_support_email_hint">Endereço de email</string>
+    <string name="inquiry_contact_support_name_hint">Nome</string>
+    <string name="inquiry_countryselect_all_countries">Todos os países</string>
+    <string name="inquiry_countryselect_close_button">botão fechar</string>
+    <string name="inquiry_countryselect_country">País</string>
+    <string name="inquiry_countryselect_default_country">Estados Unidos</string>
+    <string name="inquiry_countryselect_select_country">Selecione o país do documento de identificação</string>
+    <string name="inquiry_countryselect_suggested">Sugerido</string>
+    <string name="inquiry_fail_image_description">símbolo de falha</string>
+    <string name="inquiry_start_privacy_policy">Ao continuar, você concorda com a <a href="https://withpersona.com/legal/privacy-policy">política de privacidade de Persona</a>.</string>
+    <string name="item_view_role_description">Guia</string>
+    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
+    <string name="material_hour_selection">Selecionar horário</string>
+    <string name="material_hour_suffix">%1$s em ponto</string>
+    <string name="material_minute_selection">Selecione os minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecionar horário</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mais de %1$d novas notificações</string>
+    <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
+    <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecionar data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato inválido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecionar intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="password_toggle_content_description">Exibir senha</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"Pausar"</string>
+    <string name="persona_contact_support_body">Informe o seu email e em breve entraremos em contato com você para ajudá-lo.</string>
+    <string name="persona_contact_support_button">Enviar</string>
+    <string name="persona_contact_support_title">Falha na verificação</string>
+    <string name="persona_countryselect_body">Isto nos ajuda a determinar a melhor maneira de confirmar a sua identidade.</string>
+    <string name="persona_countryselect_button">Selecione o país</string>
+    <string name="persona_countryselect_title">Que país emitiu seu documento de identificação?</string>
+    <string name="persona_database_start_body">Nada demais, somente alguns detalhes para confirmar a sua identidade.</string>
+    <string name="persona_database_start_button">Continuar</string>
+    <string name="persona_database_start_title">Somente o básico</string>
+    <string name="persona_document_camera">Câmera</string>
+    <string name="persona_document_upload">Enviar</string>
+    <string name="persona_governmentid_failed_title">Não foi possível fazer a verificação das fotos</string>
+    <string name="persona_governmentid_start_body">Envie uma foto de um documento de identificação governamental</string>
+    <string name="persona_governmentid_start_title">Identificação com foto</string>
+    <string name="persona_governmentid_submitting_body">Esta etapa pode levar alguns segundos</string>
+    <string name="persona_governmentid_submitting_title">Processando informações</string>
+    <string name="persona_inquiry_complete_body">Obrigada por verificar a sua identidade.</string>
+    <string name="persona_inquiry_complete_button">Concluir</string>
+    <string name="persona_inquiry_complete_title">Eba! Deu tudo certo!</string>
+    <string name="persona_inquiry_failed_body">Não foi possível confirmar a sua identidade.</string>
+    <string name="persona_inquiry_failed_button">Fechar</string>
+    <string name="persona_inquiry_failed_title">Não foi possível confirmar a sua identidade</string>
+    <string name="persona_inquiry_start_body">para confirmar a sua identidade!</string>
+    <string name="persona_inquiry_start_button">Iniciar Verificação</string>
+    <string name="persona_inquiry_start_title">Precisamos de algumas informações</string>
+    <string name="persona_selfie_failed_body">Certifique-se de que o seu rosto está bem posicionado e que há boa iluminação. Tente novamente.</string>
+    <string name="persona_selfie_failed_button">Tentar novamente</string>
+    <string name="persona_selfie_failed_title">Aconteceu um erro</string>
+    <string name="persona_selfie_start_body">Vamos confirmar a sua identidade!</string>
+    <string name="persona_selfie_start_button">Iniciar</string>
+    <string name="persona_selfie_start_title">Tire uma selfie</string>
+    <string name="persona_selfie_submitting_body">Esta etapa pode levar alguns segundos</string>
+    <string name="persona_selfie_submitting_title">Processando informações</string>
+    <string name="phone_number_confirm_button">Continuar</string>
+    <string name="phone_number_confirm_subheader">Enviamos um código de confirmação para o seu telefone.</string>
+    <string name="phone_number_confirm_title">Confirme o seu número de telefone</string>
+    <string name="phone_number_entry_button">Começar</string>
+    <string name="phone_number_entry_phone_number">Número de telefone</string>
+    <string name="phone_number_entry_subheader">Precisamos de algumas informações para ajudar-nos a confirmar a sua identidade.</string>
+    <string name="phone_number_entry_title">Insira o seu número de telefone</string>
+    <string name="phone_number_name_button">Continuar</string>
+    <string name="phone_number_name_first_name">Nome</string>
+    <string name="phone_number_name_last_name">Sobrenome</string>
+    <string name="phone_number_name_subheader">Nada demais, somente alguns detalhes para confirmar a sua identidade.</string>
+    <string name="phone_number_name_title">Somente o básico</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"Reproduzir"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="selfie_hint_center">Posicione seu rosto ao centro da câmera</string>
+    <string name="selfie_hint_look_left">Posicione seu rosto ao centro da câmera e, após, mova para a esquerda</string>
+    <string name="selfie_hint_look_right">Posicione seu rosto ao centro da câmera e, após, mova para a direita</string>
+    <string name="selfie_start_biometrics_disclosure">Ao continuar, estou ciente que o Persona irá analisar minha
+    biometria facial, com o objetivo de verificar minha identidade e, imediatamente depois de ter feito isso, irá
+    deletar os dados coletados.
+  </string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"Pular para o próximo item"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"Voltar para o item anterior"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

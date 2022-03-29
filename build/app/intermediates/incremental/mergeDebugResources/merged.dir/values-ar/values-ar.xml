@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="database_us_state_codes">
+    <!-- Matches "database_us_states" in ordering -->
+    <item>AL</item>
+    <item>AK</item>
+    <item>AZ</item>
+    <item>AR</item>
+    <item>CA</item>
+    <item>CO</item>
+    <item>CT</item>
+    <item>DE</item>
+    <item>DC</item>
+    <item>FL</item>
+    <item>GA</item>
+    <item>HI</item>
+    <item>ID</item>
+    <item>IL</item>
+    <item>IN</item>
+    <item>IA</item>
+    <item>KS</item>
+    <item>KY</item>
+    <item>LA</item>
+    <item>ME</item>
+    <item>MD</item>
+    <item>MA</item>
+    <item>MI</item>
+    <item>MN</item>
+    <item>MS</item>
+    <item>MO</item>
+    <item>MT</item>
+    <item>NE</item>
+    <item>NV</item>
+    <item>NH</item>
+    <item>NJ</item>
+    <item>NM</item>
+    <item>NY</item>
+    <item>NC</item>
+    <item>ND</item>
+    <item>OH</item>
+    <item>OK</item>
+    <item>OR</item>
+    <item>PA</item>
+    <item>RI</item>
+    <item>SC</item>
+    <item>SD</item>
+    <item>TN</item>
+    <item>TX</item>
+    <item>UT</item>
+    <item>VT</item>
+    <item>VA</item>
+    <item>WA</item>
+    <item>WV</item>
+    <item>WI</item>
+    <item>WY</item>
+  </string-array>
+    <string-array name="database_us_states">
+    <item>ألاباما</item>
+    <item>ألاسكا</item>
+    <item>أريزونا</item>
+    <item>أركنساس</item>
+    <item>كاليفورنيا</item>
+    <item>كولورادو</item>
+    <item>كونيتيكت</item>
+    <item>ديلاوير</item>
+    <item>مقاطعة كولومبيا</item>
+    <item>فلوريدا</item>
+    <item>جورجيا</item>
+    <item>هاواي</item>
+    <item>أيداهو</item>
+    <item>إلينوي</item>
+    <item>إنديانا</item>
+    <item>آيوا</item>
+    <item>كانساس</item>
+    <item>كنتاكي</item>
+    <item>لويزيانا</item>
+    <item>مين</item>
+    <item>ماريلاند</item>
+    <item>ماساتشوستس</item>
+    <item>ميشيغان</item>
+    <item>مينيسوتا</item>
+    <item>ميسيسيبي</item>
+    <item>ميزوري</item>
+    <item>مونتانا</item>
+    <item>نبراسكا</item>
+    <item>نيفادا</item>
+    <item>نيوهامشير</item>
+    <item>نيو جيرسي</item>
+    <item>نيو مكسيكو</item>
+    <item>نيويورك</item>
+    <item>كارولاينا الشمالية</item>
+    <item>داكوتا الشمالية</item>
+    <item>أوهايو</item>
+    <item>أوكلاهوما</item>
+    <item>أوريغون</item>
+    <item>بنسلفانيا</item>
+    <item>جزيرة رودس</item>
+    <item>كارولاينا الشمالية</item>
+    <item>داكوتا الجنوبية</item>
+    <item>تينيسي</item>
+    <item>تكساس</item>
+    <item>يوتا</item>
+    <item>فيرمونت</item>
+    <item>فرجينيا</item>
+    <item>واشنطن</item>
+    <item>فيرجينيا الغربية</item>
+    <item>ويسكونسن</item>
+    <item>وايومنغ</item>
+  </string-array>
+    <string-array name="inquiry_countryselect_countries">
+    <item>أفغانستان</item>
+    <item>ألبانيا</item>
+    <item>الجزائر</item>
+    <item>ساموا الأمريكية</item>
+    <item>أندورا</item>
+    <item>أنغولا</item>
+    <item>أنغيلا</item>
+    <item>القارة القطبية الجنوبية</item>
+    <item>انتيغوا وبربودا</item>
+    <item>الأرجنتين</item>
+    <item>أرمينيا</item>
+    <item>أروبا</item>
+    <item>جزيرة أسنشن</item>
+    <item>أستراليا</item>
+    <item>النمسا</item>
+    <item>أذربيجان</item>
+    <item>باهاماس</item>
+    <item>البحرين</item>
+    <item>بنجلاديش</item>
+    <item>بربادوس</item>
+    <item>روسيا البيضاء</item>
+    <item>بلجيكا</item>
+    <item>بليز</item>
+    <item>بنين</item>
+    <item>برمودا</item>
+    <item>بوتان</item>
+    <item>بوليفيا</item>
+    <item>البوسنة والهرسك</item>
+    <item>بوتسوانا</item>
+    <item>جزيرة بوفيت</item>
+    <item>البرازيل</item>
+    <item>إقليم المحيط الهندي البريطاني</item>
+    <item>جزر فيرجن البريطانية</item>
+    <item>بروناي</item>
+    <item>بلغاريا</item>
+    <item>بوركينا فاسو</item>
+    <item>بوروندي</item>
+    <item>كمبوديا</item>
+    <item>الكاميرون</item>
+    <item>كندا</item>
+    <item>جزر الكناري</item>
+    <item>كيب فردي</item>
+    <item>الكاريبي الكاريبي</item>
+    <item>جزر كايمان</item>
+    <item>جمهورية أفريقيا الوسطى</item>
+    <item>سبتة ومليلية</item>
+    <item>تشاد</item>
+    <item>شيلي</item>
+    <item>الصين</item>
+    <item>جزيرة الكريسماس</item>
+    <item>جزيرة كليبرتون</item>
+    <item>جزر كوكوس (كيلنج)</item>
+    <item>كولومبيا</item>
+    <item>جزر القمر</item>
+    <item>الكونغو - برازافيل</item>
+    <item>الكونغو - كينشاسا</item>
+    <item>جزر كوك</item>
+    <item>كوستاريكا</item>
+    <item>كرواتيا</item>
+    <item>كوبا</item>
+    <item>كوراساو</item>
+    <item>قبرص</item>
+    <item>جمهورية التشيك</item>
+    <item>ساحل العاج</item>
+    <item>الدنمرك</item>
+    <item>دييغو جارسيا</item>
+    <item>جيبوتي</item>
+    <item>دومينيكا</item>
+    <item>‫‫جمهورية الدومينيكن‬‬‬‬</item>
+    <item>الإكوادور</item>
+    <item>مصر</item>
+    <item>السلفادور</item>
+    <item>غينيا الاستوائية</item>
+    <item>إريتريا</item>
+    <item>أستونيا</item>
+    <item>إثيوبيا</item>
+    <item>الاتحاد الأوروبي</item>
+    <item>جزر فوكلاند</item>
+    <item>جزر فارو</item>
+    <item>فيجي</item>
+    <item>فنلندا</item>
+    <item>فرنسا</item>
+    <item>غويانا الفرنسية</item>
+    <item>بولينيزيا الفرنسية</item>
+    <item>الأقاليم الجنوبية الفرنسية</item>
+    <item>الغابون</item>
+    <item>غامبيا</item>
+    <item>جورجيا</item>
+    <item>ألمانيا</item>
+    <item>غانا</item>
+    <item>جبل طارق</item>
+    <item>اليونان</item>
+    <item>جرينلاند</item>
+    <item>غرينادا</item>
+    <item>غواديلوب</item>
+    <item>غوام</item>
+    <item>غواتيمالا</item>
+    <item>جيرنسي</item>
+    <item>غينيا - بيساو</item>
+    <item>غينيا</item>
+    <item>غويانا</item>
+    <item>هايتي</item>
+    <item>جزيرة هيرد وجزر ماكدونالد</item>
+    <item>هندوراس</item>
+    <item>هونج كونج</item>
+    <item>المجر</item>
+    <item>أيسلندا</item>
+    <item>الهند</item>
+    <item>إندونيسيا</item>
+    <item>إيران</item>
+    <item>العراق</item>
+    <item>إيرلندا</item>
+    <item>آيل أوف مان</item>
+    <item>إسرائيل</item>
+    <item>إيطاليا</item>
+    <item>جامايكا</item>
+    <item>اليابان</item>
+    <item>جيرسي</item>
+    <item>الأردن</item>
+    <item>كازاخستان</item>
+    <item>كينيا</item>
+    <item>كيريباتي</item>
+    <item>كوسوفو</item>
+    <item>الكويت</item>
+    <item>قرغيزستان</item>
+    <item>لاوس</item>
+    <item>لاتفيا</item>
+    <item>لبنان</item>
+    <item>ليسوتو</item>
+    <item>ليبيريا</item>
+    <item>ليبيا</item>
+    <item>ليختنشتاين</item>
+    <item>ليتوانيا</item>
+    <item>لوكسمبورغ</item>
+    <item>ماكاو</item>
+    <item>مقدونيا</item>
+    <item>مدغشقر</item>
+    <item>ملاوي</item>
+    <item>ماليزيا</item>
+    <item>جزر المالديف</item>
+    <item>مالي</item>
+    <item>مالطا</item>
+    <item>جزر مارشال</item>
+    <item>المارتينيك</item>
+    <item>موريتانيا</item>
+    <item>موريشيوس</item>
+    <item>مايوت</item>
+    <item>المكسيك</item>
+    <item>ميكرونيزيا</item>
+    <item>مولدوفا</item>
+    <item>موناكو</item>
+    <item>منغوليا</item>
+    <item>الجبل الأسود</item>
+    <item>مونتسيرات</item>
+    <item>المغرب</item>
+    <item>موزنبيق</item>
+    <item>ميانمار (بورما)</item>
+    <item>ناميبيا</item>
+    <item>ناورو</item>
+    <item>نيبال</item>
+    <item>هولندا</item>
+    <item>كاليدونيا الجديدة</item>
+    <item>نيوزيلندا</item>
+    <item>نيكاراغوا</item>
+    <item>النيجر</item>
+    <item>نيجيريا</item>
+    <item>نيوي</item>
+    <item>جزيرة نورفولك</item>
+    <item>كوريا الشمالية</item>
+    <item>جزر ماريانا الشمالية</item>
+    <item>النرويج</item>
+    <item>عمان</item>
+    <item>أوقيانوسيا النائية</item>
+    <item>باكستان</item>
+    <item>بالاو</item>
+    <item>الاراضي الفلسطينية</item>
+    <item>بنما</item>
+    <item>بابوا غينيا الجديدة</item>
+    <item>باراغواي</item>
+    <item>بيرو</item>
+    <item>الفلبين</item>
+    <item>جزر بيتكيرن</item>
+    <item>بولندا</item>
+    <item>البرتغال</item>
+    <item>بورتو ريكو</item>
+    <item>قطر</item>
+    <item>رومانيا</item>
+    <item>روسيا</item>
+    <item>رواندا</item>
+    <item>لا ريونيون</item>
+    <item>القديس مارتن</item>
+    <item>ساموا</item>
+    <item>سان مارينو</item>
+    <item>المملكة العربية السعودية</item>
+    <item>السنغال</item>
+    <item>صربيا</item>
+    <item>سيشيل</item>
+    <item>سيراليون</item>
+    <item>سنغافورة</item>
+    <item>سلوفاكيا</item>
+    <item>سلوفينيا</item>
+    <item>جزر سليمان</item>
+    <item>الصومال</item>
+    <item>جنوب أفريقيا</item>
+    <item>جورجيا الجنوبية وجزيرة سندويتش الجنوبية</item>
+    <item>كوريا الجنوبية</item>
+    <item>جنوب السودان</item>
+    <item>إسبانيا</item>
+    <item>سريلانكا</item>
+    <item>سانت بارتيليمي</item>
+    <item>سانت هيلانة</item>
+    <item>قواقع كيتس ونيفيس</item>
+    <item>سانت لوسيا</item>
+    <item>سانت مارتن</item>
+    <item>سانت بيير وميكلون</item>
+    <item>سانت فنسنت وجزر غرينادين</item>
+    <item>السودان</item>
+    <item>سورينام</item>
+    <item>سفالبارد وجان مايان</item>
+    <item>سوازيلاند</item>
+    <item>السويد</item>
+    <item>سويسرا</item>
+    <item>سوريا</item>
+    <item>ساو تومي وبرنسيبي</item>
+    <item>تايوان</item>
+    <item>طاجيكستان</item>
+    <item>تنزانيا</item>
+    <item>تايلاند</item>
+    <item>ناميبيا</item>
+    <item>توغو</item>
+    <item>توكيلاو</item>
+    <item>تونغا</item>
+    <item>ترينيداد وتوباجو</item>
+    <item>تريستان دا كونها</item>
+    <item>تونس</item>
+    <item>تركيا</item>
+    <item>تركمانستان</item>
+    <item>جزر تركس وكايكوس</item>
+    <item>توفالو</item>
+    <item>الولايات المتحدة الأمريكية الجزر النائية</item>
+    <item>الولايات المتحدة الأمريكية جزر فيرجن البريطانية</item>
+    <item>أوغندا</item>
+    <item>أوكرانيا</item>
+    <item>الإمارات العربية المتحدة</item>
+    <item>المملكة المتحدة</item>
+    <item>الولايات المتحدة</item>
+    <item>أوروغواي</item>
+    <item>أوزبكستان</item>
+    <item>فانواتو</item>
+    <item>مدينة الفاتيكان</item>
+    <item>فنزويلا</item>
+    <item>فيتنام</item>
+    <item>والس وفوتونا</item>
+    <item>الصحراء الغربية</item>
+    <item>اليمن</item>
+    <item>زامبيا</item>
+    <item>زيمبابوي</item>
+    <item>جزر آلاند</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+    <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+    <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+    <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+    <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+    <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+    <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+    <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="database_birthdate_format">dd-mm-yyyy</string>
+    <string name="database_hint_address_city">المدينة</string>
+    <string name="database_hint_address_country">الدولة</string>
+    <string name="database_hint_address_postal_code">الرمز البريدي</string>
+    <string name="database_hint_address_street_1">العنوان الكامل</string>
+    <string name="database_hint_address_street_2">شقة/جناح</string>
+    <string name="database_hint_address_subdivision">الولاية</string>
+    <string name="database_hint_first_name">الاسم الأول</string>
+    <string name="database_hint_last_name">الاسم الأخير</string>
+    <string name="database_label_address">العنوان</string>
+    <string name="database_label_birthdate">تاريخ الميلاد</string>
+    <string name="database_label_identification_number_ssn_full">رقم الضمان الاجتماعي</string>
+    <string name="database_label_identification_number_ssn_last_4">آخر 4 أرقام من رقم الضمان الاجتماعي</string>
+    <string name="database_label_name">الاسم</string>
+    <string name="database_label_phone_number">رقم الهاتف</string>
+    <string name="database_prompt_address_select_subdivision">اختر الدولة</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"التشغيل الآن"</string>
+    <string name="document_instruction_content_Description">أيقونة ترمز إلى مستند</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="exo_controls_cc_disabled_description">تفعيل الترجمة</string>
+    <string name="exo_controls_cc_enabled_description">إيقاف الترجمة</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_fullscreen_enter_description">دخول إلى وضع ملء الشاشة</string>
+    <string name="exo_controls_fullscreen_exit_description">خروج من وضع ملء الشاشة</string>
+    <string name="exo_controls_hide">إخفاء عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_next_description">التالي</string>
+    <string name="exo_controls_overflow_hide_description">إخفاء الإعدادات الإضافية</string>
+    <string name="exo_controls_overflow_show_description">عرض الإعدادات الإضافية</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_playback_speed">السرعة</string>
+    <string name="exo_controls_playback_speed_normal">عادية</string>
+    <string name="exo_controls_previous_description">السابق</string>
+    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
+    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
+    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_rewind_description">ترجيع</string>
+    <string name="exo_controls_seek_bar_description">مستوى تقدُّم التشغيل</string>
+    <string name="exo_controls_settings_description">الإعدادات</string>
+    <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_shuffle_off_description">إيقاف الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">تفعيل الترتيب العشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_controls_vr_description">وضع VR</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
+    <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
+    <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
+    <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
+    <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">بديل</string>
+    <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
+    <string name="exo_track_role_commentary">التعليقات</string>
+    <string name="exo_track_role_supplementary">تكميلي</string>
+    <string name="exo_track_selection_auto">تلقائي</string>
+    <string name="exo_track_selection_none">بدون اختيار</string>
+    <string name="exo_track_selection_title_audio">صوت</string>
+    <string name="exo_track_selection_title_text">نص</string>
+    <string name="exo_track_selection_title_video">فيديو</string>
+    <string name="exo_track_stereo">استريو</string>
+    <string name="exo_track_surround">صوت مجسّم</string>
+    <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
+    <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
+    <string name="exo_track_unknown">غير معروف</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
+    <string name="governmentid_back_button">زر الرجوع</string>
+    <string name="governmentid_camera_hint_message">اثبت في مكانك...</string>
+    <string name="governmentid_camera_hint_title_back">الجزء الخلفي من
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_title_front">الجزء الأمامي من
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_title_front_or_back">
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+  </string>
+    <string name="governmentid_camera_hint_waiting_message">ضع المعرف في وسط الإطار</string>
+    <string name="governmentid_camera_overlay_hint_back">ضع الجزء الخلفي من
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+    في الإطار
+  </string>
+    <string name="governmentid_camera_overlay_hint_front">ضع الجزء الأمامي من
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+    في الإطار
+  </string>
+    <string name="governmentid_camera_overlay_hint_front_or_back">ضع
+    <ns1:g example="Driver&apos;s License" id="id_class">%s</ns1:g>
+    في الإطار
+  </string>
+    <string name="governmentid_close_button">زر الاغلاق</string>
+    <string name="governmentid_failed_button">مواصلة</string>
+    <string name="governmentid_failed_reason_barcode_not_detected">تأكد من أن الرمز الشريطي مرئي وليس مشوشًا.</string>
+    <string name="governmentid_failed_reason_blurry">تأكد من أن جميع أجزاء النص واضحة للقراءة وليست ضبابيًة.</string>
+    <string name="governmentid_failed_reason_double_front_detected">أرسل صورة واضحة للجزء الخلفي من هويتك.</string>
+    <string name="governmentid_failed_reason_expired">يرجى تقديم هوية رسمية غير منتهية الصلاحية.</string>
+    <string name="governmentid_failed_reason_generic">تأكد من أن تفاصيل الهوية واضحة للقراءة.</string>
+    <string name="governmentid_failed_reason_glare">قلل الوهج بالابتعاد عن الضوء المباشر.</string>
+    <string name="governmentid_failed_reason_mrz_not_detected">تأكد من أن النص المشفر في الأسفل واضح وغير محجوب.</string>
+    <string name="governmentid_failed_reason_portrait_missing">تأكد من أن صورة وجهك مرئية.</string>
+    <string name="governmentid_failed_reason_unprocessable_image">تعذر معالجة الصورة، يرجى إرسال jpg أو png.</string>
+    <string name="governmentid_idlabel_dl">رخصة السائق</string>
+    <string name="governmentid_idlabel_id">بطاقة هوية الدولة</string>
+    <string name="governmentid_idlabel_ktp">بطاقة KTP</string>
+    <string name="governmentid_idlabel_mid">المُعرف العسكري</string>
+    <string name="governmentid_idlabel_myn">رقم بطاقتي</string>
+    <string name="governmentid_idlabel_nric">بطاقة هوية التسجيل الوطنية</string>
+    <string name="governmentid_idlabel_ofw">بطاقة هوية العمالة الفليبينية في الخارج</string>
+    <string name="governmentid_idlabel_pid">بطاقة الهوية البريدية</string>
+    <string name="governmentid_idlabel_pp">جواز سفر</string>
+    <string name="governmentid_idlabel_ppc">بطاقة جواز السفر</string>
+    <string name="governmentid_idlabel_pr">بطاقة الإقامة الدائمة</string>
+    <string name="governmentid_idlabel_rp">تصريح الإقامة</string>
+    <string name="governmentid_idlabel_sp">تصريح الطالب</string>
+    <string name="governmentid_idlabel_sss">مُعرف الضمان الاجتماعي</string>
+    <string name="governmentid_idlabel_umid">بطاقة هوية موحدة متعددة الأغراض</string>
+    <string name="governmentid_idlabel_vid">معرِّف المصوت</string>
+    <string name="governmentid_idlabel_wp">تصريح عمل</string>
+    <string name="governmentid_instructions_listheader">اختر أحد الخيارات التالية</string>
+    <string name="governmentid_review_accept">مظهر جيد</string>
+    <string name="governmentid_review_content_description">الهوية الحكومية للمراجعة</string>
+    <string name="governmentid_review_message">تأكد من أن الإضاءة جيدة وأن الحروف واضحة</string>
+    <string name="governmentid_review_retake">استعادة</string>
+    <string name="governmentid_review_title_back">مراجعة الجزء الخلفي</string>
+    <string name="governmentid_review_title_front">مراجعة المقدمة</string>
+    <string name="governmentid_review_title_front_or_back">مراجعة الهوية</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="inquiry_complete_success_check_mark">ضع علامة \"صحيح\"</string>
+    <string name="inquiry_contact_support_comment_hint">يرجى وصف المشكلة...</string>
+    <string name="inquiry_contact_support_email_hint">عنوان البريد الإلكتروني</string>
+    <string name="inquiry_contact_support_name_hint">الاسم</string>
+    <string name="inquiry_countryselect_all_countries">كل البلدان</string>
+    <string name="inquiry_countryselect_close_button">زر الإغلاق</string>
+    <string name="inquiry_countryselect_country">البلد</string>
+    <string name="inquiry_countryselect_default_country">الولايات المتحدة</string>
+    <string name="inquiry_countryselect_select_country">حدد بلد الهوية</string>
+    <string name="inquiry_countryselect_suggested">المقترح</string>
+    <string name="inquiry_fail_image_description">رمز الفشل</string>
+    <string name="inquiry_start_privacy_policy">من خلال المتابعة، فإنك توافق على سياسة الخصوصية لـ <a href="https://withpersona.com/legal/privacy-policy">Persona الصادرة في 2019</a>.</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"إيقاف مؤقت"</string>
+    <string name="persona_contact_support_body">أدخل بريدك الإلكتروني، وسنتواصل معك قريبًا لمساعدتك.</string>
+    <string name="persona_contact_support_button">إرسال</string>
+    <string name="persona_contact_support_title">فشل التحقق</string>
+    <string name="persona_countryselect_body">يساعدنا هذا على تحديد أفضل طريقة للتحقق من هويتك.</string>
+    <string name="persona_countryselect_button">اختر الدولة</string>
+    <string name="persona_countryselect_title">ما هو البلد الذي أصدر هويتك الرسمية؟</string>
+    <string name="persona_database_start_body">الأمر ليس بالمرهق، ثمة بضع خطوات للتحقق من هويتك.</string>
+    <string name="persona_database_start_button">متابعة</string>
+    <string name="persona_database_start_title">فقط الأساسيات</string>
+    <string name="persona_document_camera">الكاميرا</string>
+    <string name="persona_document_upload">تحميل</string>
+    <string name="persona_governmentid_failed_title">تعذر التحقق من الصور</string>
+    <string name="persona_governmentid_start_body">نطلب صورة هوية رسمية للتحقق من هويتك.</string>
+    <string name="persona_governmentid_start_title">قم بتحميل معرف الصورة</string>
+    <string name="persona_governmentid_submitting_body">قد يستغرق هذا بضع ثوانٍ</string>
+    <string name="persona_governmentid_submitting_title">معالجة المعرّف</string>
+    <string name="persona_inquiry_complete_body">شكرا للتحقق من هويتك.</string>
+    <string name="persona_inquiry_complete_button">تم</string>
+    <string name="persona_inquiry_complete_title">تهانينا، لقد انتهيت!</string>
+    <string name="persona_inquiry_failed_body">لم نتمكن من التحقق من هويتك.</string>
+    <string name="persona_inquiry_failed_button">إغلاق</string>
+    <string name="persona_inquiry_failed_title">لا يمكن التحقق من هويتك</string>
+    <string name="persona_inquiry_start_body">دعنا نتأكد من هويتك</string>
+    <string name="persona_inquiry_start_button">البدء</string>
+    <string name="persona_inquiry_start_title">تحقق من هويتك</string>
+    <string name="persona_selfie_failed_body">تأكد من أن وجهك مرئي، ومضاء جيدًا، وحاول مرة أخرى</string>
+    <string name="persona_selfie_failed_button">إعادة محاولة</string>
+    <string name="persona_selfie_failed_title">هناك خطأ ما</string>
+    <string name="persona_selfie_start_body">دعنا نتأكد من هويتك.</string>
+    <string name="persona_selfie_start_button">البدء</string>
+    <string name="persona_selfie_start_title">التقط صورة ذاتية</string>
+    <string name="persona_selfie_submitting_body">هذا قد يستغرق بضع ثوانٍ</string>
+    <string name="persona_selfie_submitting_title">جارٍ معالجة الصورة الذاتية</string>
+    <string name="phone_number_confirm_button">مواصلة</string>
+    <string name="phone_number_confirm_subheader">لقد أرسلنا رمز التأكيد إلى هاتفك.</string>
+    <string name="phone_number_confirm_title">قم بتأكيد رقم هاتفك</string>
+    <string name="phone_number_entry_button">البدء</string>
+    <string name="phone_number_entry_phone_number">رقم الهاتف</string>
+    <string name="phone_number_entry_subheader">نحتاج إلى بعض المعلومات لمساعدتنا على تأكيد هويتك.</string>
+    <string name="phone_number_entry_title">قم بإدخال رقم هاتفك</string>
+    <string name="phone_number_name_button">مواصلة</string>
+    <string name="phone_number_name_first_name">الاسم الأول</string>
+    <string name="phone_number_name_last_name">الكنية</string>
+    <string name="phone_number_name_subheader">لا شيء خيالي، فقط بعض الأشياء للتحقق من هويتك.</string>
+    <string name="phone_number_name_title">فقط الأساسيات</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"تشغيل"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="selfie_close_button_description">زر الاغلاق</string>
+    <string name="selfie_hint_center">ضع نفسك في الإطار.</string>
+    <string name="selfie_hint_look_left">انظر إلى اليسار قليلًا.</string>
+    <string name="selfie_hint_look_right">انظر إلى اليمين قليلًا.</string>
+    <string name="selfie_start_biometrics_disclosure">من خلال المتابعة ، أقر بأن بيرسونا تحلل القياسات الحيوية لوجهي لأغراض التحقق من الهوية وحذف البيانات البيومترية فورًا بعد المعالجة.</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"التخطي إلى العنصر التالي"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"التخطي إلى العنصر السابق"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
