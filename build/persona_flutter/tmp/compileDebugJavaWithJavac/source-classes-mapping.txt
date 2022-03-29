@@ -1,2 +1,0 @@
-com/jorgefspereira/persona_flutter/BuildConfig.java
- com.jorgefspereira.persona_flutter.BuildConfig
